@@ -1,45 +1,57 @@
-"""Merge chunk-level outputs into one merged table per dataset."""
-
-from __future__ import annotations
-
 import argparse
 from pathlib import Path
-
 import pandas as pd
 
-from werewolf.config import TABLE_NAMES
-from werewolf.io_utils import ensure_dir, write_frame
+
+def write_df(df, out_path: Path, write_format: str):
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+
+    if write_format == "csv":
+        df.to_csv(out_path.with_suffix(".csv"), index=False)
+        print(f"Wrote {out_path.with_suffix('.csv')} shape={df.shape}")
+    elif write_format == "parquet":
+        df.to_parquet(out_path.with_suffix(".parquet"), index=False)
+        print(f"Wrote {out_path.with_suffix('.parquet')} shape={df.shape}")
+    else:
+        raise ValueError(f"Unsupported write_format: {write_format}")
 
 
-def main() -> None:
+def merge_pattern(chunks_root: Path, pattern: str):
+    files = sorted(chunks_root.glob(pattern))
+    if not files:
+        print(f"No files found for pattern: {pattern}")
+        return pd.DataFrame()
+
+    dfs = []
+    for f in files:
+        dfs.append(pd.read_csv(f))
+
+    merged = pd.concat(dfs, ignore_index=True)
+    print(f"Merged {len(files)} files for pattern {pattern}, shape={merged.shape}")
+    return merged
+
+
+def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--chunks-root", required=True)
-    parser.add_argument("--merged-root", required=True)
-    parser.add_argument("--write-format", choices=["parquet", "csv"], default="parquet")
+    parser.add_argument("--chunks-root", required=True, help="Directory containing chunk outputs")
+    parser.add_argument("--merged-root", required=True, help="Directory to write merged outputs")
+    parser.add_argument("--write-format", choices=["csv", "parquet"], default="parquet")
     args = parser.parse_args()
 
     chunks_root = Path(args.chunks_root)
-    merged_root = ensure_dir(args.merged_root)
-    summary_rows = []
+    merged_root = Path(args.merged_root)
 
-    for table_name in TABLE_NAMES:
-        frames = []
-        for chunk_dir in sorted(chunks_root.glob("chunk_*")):
-            parquet_path = chunk_dir / f"{table_name}.parquet"
-            csv_path = chunk_dir / f"{table_name}.csv.gz"
-            if parquet_path.exists():
-                frames.append(pd.read_parquet(parquet_path))
-            elif csv_path.exists():
-                frames.append(pd.read_csv(csv_path))
-        if frames:
-            merged = pd.concat(frames, ignore_index=True)
-            write_frame(merged, root=merged_root, table_name=table_name, write_format=args.write_format)
-            summary_rows.append({"table_name": table_name, "row_count": int(len(merged)), "n_chunks": len(frames)})
-        else:
-            summary_rows.append({"table_name": table_name, "row_count": 0, "n_chunks": 0})
+    games = merge_pattern(chunks_root, "games_chunk_*.csv")
+    players = merge_pattern(chunks_root, "players_chunk_*.csv")
+    public_messages = merge_pattern(chunks_root, "public_messages_chunk_*.csv")
+    events = merge_pattern(chunks_root, "events_chunk_*.csv")
+    errors = merge_pattern(chunks_root, "errors_chunk_*.csv")
 
-    pd.DataFrame(summary_rows).to_csv(merged_root / "merge_summary.csv", index=False)
-    print(f"Merged tables written to {merged_root}")
+    write_df(games, merged_root / "games", args.write_format)
+    write_df(players, merged_root / "players", args.write_format)
+    write_df(public_messages, merged_root / "public_messages", args.write_format)
+    write_df(events, merged_root / "events", args.write_format)
+    write_df(errors, merged_root / "errors", args.write_format)
 
 
 if __name__ == "__main__":

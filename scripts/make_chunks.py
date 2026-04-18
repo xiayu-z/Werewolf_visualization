@@ -1,51 +1,42 @@
-"""Create Slurm-friendly chunk manifests from raw JSON files."""
-
-from __future__ import annotations
-
-import argparse
+import math
 from pathlib import Path
+import argparse
 
-import pandas as pd
-
-from werewolf.io_utils import ensure_dir
-
-
-def main() -> None:
+def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--data-dir", required=True)
-    parser.add_argument("--chunks-dir", required=True)
-    parser.add_argument("--files-per-chunk", type=int, default=200)
-    parser.add_argument("--include-empty", action="store_true")
+    parser.add_argument("--data-dir", required=True, help="Directory containing json files")
+    parser.add_argument("--chunks-dir", required=True, help="Directory to write chunk manifest files")
+    parser.add_argument("--files-per-chunk", type=int, default=200, help="How many files per chunk")
     args = parser.parse_args()
 
     data_dir = Path(args.data_dir)
-    chunks_dir = ensure_dir(args.chunks_dir)
+    chunks_dir = Path(args.chunks_dir)
+    chunks_dir.mkdir(parents=True, exist_ok=True)
 
     files = sorted(data_dir.glob("*.json"))
-    if not args.include_empty:
-        files = [path for path in files if path.stat().st_size > 0]
+    n_files = len(files)
 
-    manifest_rows = []
-    for chunk_id, start in enumerate(range(0, len(files), args.files_per_chunk)):
-        chunk_files = files[start : start + args.files_per_chunk]
-        chunk_path = chunks_dir / f"chunk_{chunk_id:05d}.txt"
-        chunk_path.write_text("\n".join(str(path.resolve()) for path in chunk_files), encoding="utf-8")
-        manifest_rows.append(
-            {
-                "chunk_id": chunk_id,
-                "chunk_file": str(chunk_path.resolve()),
-                "n_files": len(chunk_files),
-                "total_bytes": sum(path.stat().st_size for path in chunk_files),
-                "first_file": chunk_files[0].name if chunk_files else None,
-                "last_file": chunk_files[-1].name if chunk_files else None,
-            }
-        )
+    if n_files == 0:
+        raise RuntimeError(f"No json files found in {data_dir}")
 
-    manifest = pd.DataFrame(manifest_rows)
-    manifest.to_csv(chunks_dir / "chunk_manifest.csv", index=False)
-    (chunks_dir / "chunk_count.txt").write_text(str(len(manifest_rows)), encoding="utf-8")
-    print(f"Created {len(manifest_rows)} chunk manifests in {chunks_dir}")
+    n_chunks = math.ceil(n_files / args.files_per_chunk)
 
+    for chunk_idx in range(n_chunks):
+        start = chunk_idx * args.files_per_chunk
+        end = min((chunk_idx + 1) * args.files_per_chunk, n_files)
+        chunk_files = files[start:end]
+
+        out_path = chunks_dir / f"chunk_{chunk_idx:05d}.txt"
+        with open(out_path, "w", encoding="utf-8") as f:
+            for p in chunk_files:
+                f.write(str(p.resolve()) + "\n")
+
+    with open(chunks_dir / "chunk_count.txt", "w", encoding="utf-8") as f:
+        f.write(str(n_chunks) + "\n")
+
+    print(f"Found {n_files} files")
+    print(f"Created {n_chunks} chunk manifests in {chunks_dir}")
+    print(f"Files per chunk: {args.files_per_chunk}")
 
 if __name__ == "__main__":
     main()
