@@ -2,8 +2,9 @@
 #SBATCH --job-name=ww-chunks
 #SBATCH --output=logs/slurm/%x-%j.out
 #SBATCH --time=00:20:00
-#SBATCH --cpus-per-task=2
-#SBATCH --mem=8G
+#SBATCH --cpus-per-task=1
+#SBATCH --mem=2G
+#SBATCH --partition=short
 
 set -euo pipefail
 

@@ -2,8 +2,9 @@
 #SBATCH --job-name=ww-analysis
 #SBATCH --output=logs/slurm/%x-%j.out
 #SBATCH --time=03:00:00
-#SBATCH --cpus-per-task=4
-#SBATCH --mem=24G
+#SBATCH --cpus-per-task=1
+#SBATCH --mem=2G
+#SBATCH --partition=short
 
 set -euo pipefail
 
