@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+
+chunks/
+logs/
+outputs/
+processed/
+
+data/
+*.parquet
+*.csv.gz
