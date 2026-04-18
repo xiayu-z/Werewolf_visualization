@@ -1,0 +1,11 @@
+Descriptive Analysis Summary
+- Total games: 1435
+- Total players: 11472
+- Total public messages: 40510
+- Total events: 407262
+- Average players per game: 7.99
+- Average message length: 548.32 characters
+- Most common winner team: Villagers (1000 games, 69.7%)
+- Highest survival role: Villager (54.8%)
+- Messages per game: mean=28.23, median=26.00, min=16, max=48
+- Most frequent event type: phase_change (103287, 25.4%)

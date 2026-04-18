@@ -1,0 +1,2 @@
+n_games,mean_messages_per_game,median_messages_per_game,std_messages_per_game,min_messages_per_game,p25_messages_per_game,p75_messages_per_game,max_messages_per_game
+1435,28.229965156794425,26.0,4.537009710344007,16,24.0,30.0,48

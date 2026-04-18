@@ -1,0 +1,2 @@
+n_messages,mean_text_len,median_text_len,std_text_len,min_text_len,max_text_len
+40510,548.3189829671686,429.0,348.0162839987731,28,2433
