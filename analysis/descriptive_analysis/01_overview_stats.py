@@ -1,7 +1,6 @@
 from __future__ import annotations
 
 import argparse
-import importlib.util
 from pathlib import Path
 
 if __package__ in {None, ""}:
@@ -13,20 +12,9 @@ else:
     from .common import DEFAULT_CHUNK_ROOT, DEFAULT_MERGED_ROOT, DEFAULT_OUTPUT_DIR, run_overview_statistics
 
 
-def load_generate_plots():
-    module_path = Path(__file__).resolve().parent / "02_overview_plots.py"
-    spec = importlib.util.spec_from_file_location("overview_plots", module_path)
-    if spec is None or spec.loader is None:
-        raise ImportError(f"Could not load plot module from {module_path}")
-
-    module = importlib.util.module_from_spec(spec)
-    spec.loader.exec_module(module)
-    return module.generate_plots
-
-
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Run the full descriptive analysis pipeline for the Werewolf project."
+        description="Generate overview descriptive statistics for the Werewolf project."
     )
     parser.add_argument(
         "--merged-root",
@@ -44,12 +32,7 @@ def parse_args() -> argparse.Namespace:
         "--output-dir",
         type=Path,
         default=DEFAULT_OUTPUT_DIR,
-        help="Directory where summary tables and plots will be written.",
-    )
-    parser.add_argument(
-        "--skip-plots",
-        action="store_true",
-        help="Only compute statistics and skip plot generation.",
+        help="Directory where summary tables will be written.",
     )
     return parser.parse_args()
 
@@ -61,10 +44,7 @@ def main() -> None:
         chunk_root=args.chunk_root,
         output_dir=args.output_dir,
     )
-    if not args.skip_plots:
-        generate_plots = load_generate_plots()
-        generate_plots(args.output_dir)
-    print(f"Descriptive analysis finished. Outputs are in {args.output_dir.resolve()}")
+    print(f"Overview statistics written to {args.output_dir.resolve()}")
 
 
 if __name__ == "__main__":
