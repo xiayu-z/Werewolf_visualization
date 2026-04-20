@@ -1,0 +1,1435 @@
+game_id,total_messages_game,avg_messages_per_player,avg_message_length_game,max_messages_one_player,winner_team,last_day,n_players,end_reason
+74788902,24.0,3.0,472.25,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74788904,24.0,3.0,332.65625,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74788934,36.0,4.5,660.6354166666666,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74788967,26.0,3.25,442.25,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74788999,24.0,3.0,559.15625,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74789000,30.0,3.75,618.8125,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74789096,27.0,3.375,413.4583333333333,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74789224,32.0,4.0,408.7916666666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74789286,24.0,3.0,727.125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74789319,24.0,3.0,451.6875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74789348,26.0,3.25,437.4375,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74789380,26.0,3.25,490.0,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74789412,23.0,2.875,369.73958333333337,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74789441,24.0,3.0,571.3125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74789534,36.0,4.5,479.6354166666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74789723,30.0,3.75,497.6875,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74789727,30.0,3.75,570.3958333333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74789792,24.0,3.0,581.75,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74789799,36.0,4.5,617.7083333333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74789828,30.0,3.75,429.36458333333337,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74789830,24.0,3.0,346.8125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74789831,30.0,3.75,537.9166666666666,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74789901,26.0,3.25,457.59375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74789939,26.0,3.25,499.71875,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74789943,26.0,3.25,390.5625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74789984,24.0,3.0,335.09375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74789993,24.0,3.0,431.84375,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74789995,24.0,3.0,462.03125,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74789997,33.0,4.125,522.4166666666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74789998,26.0,3.25,380.375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74790010,24.0,3.0,555.96875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74790013,26.0,3.25,459.125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74790017,26.0,3.25,646.03125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74790020,24.0,3.0,319.09375,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74790036,26.0,3.25,398.625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74790047,24.0,3.0,591.53125,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74790050,26.0,3.25,362.59375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74790053,24.0,3.0,468.59375,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74790060,24.0,3.0,328.96875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74790067,26.0,3.25,314.625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74790077,26.0,3.25,443.9375,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74790080,38.0,4.75,431.8958333333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74790082,26.0,3.25,350.84375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74790092,34.0,4.25,454.09375,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74790094,24.0,3.0,375.59375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74790099,26.0,3.25,502.375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74790103,40.0,5.0,503.58333333333337,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74790112,26.0,3.25,452.8125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74790127,28.0,3.5,476.0625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74790129,28.0,3.5,390.5625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74790135,24.0,3.0,545.90625,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74790138,26.0,3.25,484.375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74790147,28.0,3.5,694.46875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74790153,24.0,3.0,462.09375,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74790154,24.0,3.0,433.25,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74790162,24.0,3.0,371.78125,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74790165,30.0,3.75,592.75,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74790166,24.0,3.0,481.71875,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74790172,42.0,5.25,533.5260416666667,8.0,Villagers,4.0,8,Reason: All werewolves exiled.
+74790176,24.0,3.0,372.0,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74790182,26.0,3.25,406.3125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74790183,30.0,3.75,445.0625,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74790185,24.0,3.0,524.03125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74790197,24.0,3.0,448.09375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74790200,24.0,3.0,508.9375,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74790201,30.0,3.75,818.09375,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74790212,30.0,3.75,565.3333333333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74790213,32.0,4.0,473.16666666666663,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74790220,28.0,3.5,472.34375,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74790226,36.0,4.5,308.7083333333333,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74790228,30.0,3.75,458.9375,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74790229,28.0,3.5,615.1875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74790231,24.0,3.0,493.84375,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74790232,30.0,3.75,372.71875,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74790265,32.0,4.0,621.7083333333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74790301,23.0,2.875,356.03125,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74790302,40.0,5.0,547.6458333333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74790336,30.0,3.75,440.1145833333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74790339,36.0,4.5,351.8541666666667,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74790408,30.0,3.75,418.7916666666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74790415,24.0,3.0,687.875,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74790420,30.0,3.75,333.21875,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74790421,42.0,5.25,622.4895833333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74790429,24.0,3.0,451.03125,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74790430,24.0,3.0,369.96875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74790435,36.0,4.5,416.0520833333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74790447,30.0,3.75,450.32291666666663,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74790448,24.0,3.0,411.625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74790466,24.0,3.0,607.25,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74790489,24.0,3.0,392.1875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74790493,24.0,3.0,643.75,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74790507,24.0,3.0,523.21875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74790514,33.0,4.125,320.93333333333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74790519,26.0,3.25,396.875,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74790535,38.0,4.75,542.1979166666666,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74790538,24.0,3.0,288.375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74790540,34.0,4.25,444.65625,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74790549,24.0,3.0,339.28125,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74790559,28.0,3.5,429.4375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74790561,24.0,3.0,352.59375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74790563,26.0,3.25,523.5625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74790568,30.0,3.75,252.94791666666666,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74790569,30.0,3.75,874.0,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74790572,30.0,3.75,680.75,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74790575,34.0,4.25,309.21875,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74790577,26.0,3.25,543.25,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74790578,38.0,4.75,447.84375,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74790610,30.0,3.75,501.2604166666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74790616,28.0,3.5,469.1875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74790649,26.0,3.25,442.78125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74790650,24.0,3.0,495.71875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74790652,26.0,3.25,532.84375,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74790681,24.0,3.0,459.4375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74790718,30.0,3.75,271.4895833333333,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74790719,23.0,2.875,422.22916666666663,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74790757,24.0,3.0,493.65625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74790758,24.0,3.0,425.75,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74790759,26.0,3.25,321.75,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74790796,30.0,3.75,498.5104166666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74790828,24.0,3.0,463.59375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74790829,30.0,3.75,626.84375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74790832,28.0,3.5,1106.4375,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74790866,34.0,4.25,453.6145833333333,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74790878,24.0,3.0,523.0,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74790881,30.0,3.75,365.3333333333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74790888,24.0,3.0,400.03125,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74790890,24.0,3.0,469.90625,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74790893,34.0,4.25,508.98958333333337,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74790915,24.0,3.0,780.125,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74790918,30.0,3.75,395.96875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74790921,30.0,3.75,482.4479166666667,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74790929,26.0,3.25,413.03125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74790935,36.0,4.5,476.4791666666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74790936,36.0,4.5,809.8125,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74790937,30.0,3.75,372.84375,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74790948,30.0,3.75,624.6145833333333,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74790953,24.0,3.0,355.375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74790963,30.0,3.75,541.03125,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74790972,36.0,4.5,565.625,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74790973,24.0,3.0,466.03125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74790974,30.0,3.75,466.9791666666667,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74790975,30.0,3.75,624.53125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74790982,38.0,4.75,381.3854166666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74790992,36.0,4.5,611.0729166666666,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74791008,36.0,4.5,501.9895833333333,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74791011,24.0,3.0,603.96875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791015,30.0,3.75,537.59375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791016,28.0,3.5,379.5,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791020,26.0,3.25,567.28125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791022,24.0,3.0,374.25,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74791023,26.0,3.25,600.34375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791027,24.0,3.0,358.6875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791034,34.0,4.25,702.84375,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74791035,24.0,3.0,671.84375,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74791037,28.0,3.5,506.40625,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74791039,30.0,3.75,435.125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791042,34.0,4.25,726.5625,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74791044,26.0,3.25,290.5,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791060,28.0,3.5,793.25,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74791066,24.0,3.0,512.65625,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74791069,24.0,3.0,310.9375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791070,26.0,3.25,313.0,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791073,26.0,3.25,345.53125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791076,24.0,3.0,545.46875,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74791077,28.0,3.5,369.5,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791079,26.0,3.25,433.4375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791084,30.0,3.75,469.34375,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74791101,38.0,4.75,330.95833333333337,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74791103,32.0,4.0,480.3854166666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74791106,30.0,3.75,561.96875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791137,38.0,4.75,532.6145833333334,8.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74791138,24.0,3.0,351.6875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791140,30.0,3.75,962.0104166666666,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74791175,24.0,3.0,635.0,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791176,28.0,3.5,910.34375,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74791178,30.0,3.75,415.5520833333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74791208,23.0,2.875,380.4791666666667,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791212,36.0,4.5,378.6770833333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74791215,24.0,3.0,338.375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791216,46.0,5.75,696.3489583333333,8.0,Villagers,4.0,8,Reason: All werewolves exiled.
+74791219,25.0,3.125,494.9583333333333,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74791221,36.0,4.5,797.3854166666666,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74791231,34.0,4.25,526.28125,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74791233,36.0,4.5,495.03125,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74791237,28.0,3.5,648.8125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791238,30.0,3.75,337.65625,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74791239,26.0,3.25,447.15625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791281,30.0,3.75,418.21875,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74791298,36.0,4.5,914.3854166666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74791303,26.0,3.25,501.34375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791307,24.0,3.0,838.78125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791313,28.0,3.5,551.46875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791314,30.0,3.75,550.3229166666666,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74791318,24.0,3.0,492.1875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791334,36.0,4.5,480.21875,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74791388,34.0,4.25,637.5104166666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74791389,28.0,3.5,535.5,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74791401,26.0,3.25,322.53125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791404,26.0,3.25,387.53125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791406,33.0,4.125,615.8229166666666,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74791417,26.0,3.25,430.15625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791419,26.0,3.25,353.5,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791429,26.0,3.25,542.65625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791430,26.0,3.25,637.75,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791465,34.0,4.25,765.6770833333333,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74791502,30.0,3.75,454.69791666666663,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74791503,24.0,3.0,366.375,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74791507,24.0,3.0,267.5,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791510,24.0,3.0,453.25,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791518,26.0,3.25,393.34375,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74791519,26.0,3.25,300.0,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791549,26.0,3.25,619.71875,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74791550,30.0,3.75,333.5416666666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74791555,24.0,3.0,592.0625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791564,24.0,3.0,513.3125,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74791578,24.0,3.0,506.53125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791580,26.0,3.25,308.09375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791608,34.0,4.25,722.0729166666666,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74791610,28.0,3.5,701.15625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791624,24.0,3.0,365.5625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791628,26.0,3.25,299.59375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791632,38.0,4.75,329.5729166666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74791635,24.0,3.0,793.34375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791641,24.0,3.0,330.5,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791646,24.0,3.0,381.65625,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74791677,26.0,3.25,237.5,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791681,33.0,4.125,365.88958333333335,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74791694,26.0,3.25,528.4375,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74791699,24.0,3.0,437.65625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791700,26.0,3.25,567.71875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791707,36.0,4.5,762.0,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74791711,26.0,3.25,347.71875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791712,26.0,3.25,363.34375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791716,30.0,3.75,454.22916666666663,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74791721,30.0,3.75,576.2916666666666,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74791728,33.0,4.125,575.375,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74791730,30.0,3.75,720.84375,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74791731,28.0,3.5,383.8125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791741,26.0,3.25,653.78125,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74791746,34.0,4.25,509.40625,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74791757,24.0,3.0,570.625,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74791770,30.0,3.75,327.875,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74791771,36.0,4.5,563.7395833333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74791774,24.0,3.0,514.71875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791803,34.0,4.25,481.9270833333333,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74791806,24.0,3.0,580.625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791809,26.0,3.25,601.625,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74791810,40.0,5.0,465.34375,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74791811,36.0,4.5,373.125,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74791831,26.0,3.25,850.4375,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74791844,30.0,3.75,396.2708333333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74791856,24.0,3.0,490.71875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791868,30.0,3.75,674.7395833333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74791873,30.0,3.75,398.0208333333333,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74791875,24.0,3.0,517.875,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74791883,46.0,5.75,718.5833333333333,8.0,Villagers,4.0,8,Reason: All werewolves exiled.
+74791891,30.0,3.75,377.9791666666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74791924,30.0,3.75,246.88541666666666,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74791926,24.0,3.0,621.59375,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74791928,34.0,4.25,436.9479166666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74791932,24.0,3.0,501.1875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791934,26.0,3.25,420.65625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791938,28.0,3.5,510.53125,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74791939,24.0,3.0,288.875,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74791940,34.0,4.25,448.77083333333337,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74791945,28.0,3.5,849.78125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74791979,34.0,4.25,519.0729166666666,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74791990,24.0,3.0,434.40625,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74791998,24.0,3.0,366.25,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74792001,24.0,3.0,322.25,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74792016,24.0,3.0,358.6875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74792047,30.0,3.75,276.0,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74792053,30.0,3.75,511.46875,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74792058,36.0,4.5,544.7395833333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74792061,30.0,3.75,504.5625,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74792063,24.0,3.0,510.125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74792064,24.0,3.0,539.125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74792070,32.0,4.0,439.60416666666663,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74792160,28.0,3.5,403.15625,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74792161,24.0,3.0,248.3125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74792168,24.0,3.0,383.9375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74792172,24.0,3.0,535.625,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74792173,26.0,3.25,404.9375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74792178,24.0,3.0,425.09375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74792194,26.0,3.25,413.96875,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74792202,30.0,3.75,313.6458333333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74792204,26.0,3.25,268.3125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74792206,34.0,4.25,597.03125,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74792208,28.0,3.5,442.25,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74792212,24.0,3.0,331.96875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74792214,34.0,4.25,773.6979166666666,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74792215,34.0,4.25,736.03125,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74792217,30.0,3.75,380.1145833333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74792229,28.0,3.5,565.75,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74792231,29.0,3.625,381.8020833333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74792233,36.0,4.5,615.84375,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74792236,24.0,3.0,567.75,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74792241,24.0,3.0,584.6875,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74792307,26.0,3.25,354.75,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74792311,37.0,4.625,722.4145833333333,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74792319,29.0,3.625,455.125,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74792320,30.0,3.75,489.9166666666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74792324,24.0,3.0,339.03125,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74792327,30.0,3.75,404.0416666666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74792330,24.0,3.0,499.4375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74792331,30.0,3.75,751.4166666666666,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74792338,40.0,5.0,701.0833333333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74792341,23.0,2.875,384.3125,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74792345,26.0,3.25,265.59375,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74792348,32.0,4.0,422.76041666666663,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74792350,24.0,3.0,537.46875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74792352,23.0,2.875,438.78125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74792354,24.0,3.0,523.40625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74792356,30.0,3.75,590.5,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74792365,34.0,4.25,438.30208333333337,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74792366,28.0,3.5,493.03125,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74792367,30.0,3.75,542.2395833333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74792369,24.0,3.0,311.34375,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74792380,24.0,3.0,548.21875,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74792421,40.0,5.0,787.4479166666667,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74792429,24.0,3.0,529.21875,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74792431,36.0,4.5,558.9791666666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74792433,28.0,3.5,461.4375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74792438,30.0,3.75,476.22916666666663,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74792441,24.0,3.0,488.75,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74792457,24.0,3.0,455.40625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74792458,36.0,4.5,636.3020833333334,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74792462,24.0,3.0,519.1875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74792466,30.0,3.75,854.1354166666666,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74792473,24.0,3.0,431.21875,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74792476,24.0,3.0,585.0,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74792480,26.0,3.25,269.34375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74792481,28.0,3.5,358.78125,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74792493,30.0,3.75,826.09375,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74792499,26.0,3.25,383.6875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74792530,24.0,3.0,581.09375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74792535,24.0,3.0,565.90625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74792537,24.0,3.0,432.53125,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74792538,24.0,3.0,363.78125,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74792547,26.0,3.25,373.03125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74792554,26.0,3.25,528.71875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74792562,30.0,3.75,455.32291666666663,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74792574,24.0,3.0,450.75,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74792608,24.0,3.0,241.9375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74792628,28.0,3.5,540.4375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74792637,24.0,3.0,423.65625,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74792651,32.0,4.0,442.4791666666667,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74792652,24.0,3.0,497.28125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74792694,24.0,3.0,471.5625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74792699,24.0,3.0,475.40625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74792703,30.0,3.75,297.7083333333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74792706,35.0,4.375,555.88125,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74792711,26.0,3.25,331.59375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74792752,46.0,5.75,528.1614583333334,8.0,Villagers,4.0,8,Reason: All werewolves exiled.
+74792753,28.0,3.5,403.09375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74792756,32.0,4.0,502.2291666666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74792758,30.0,3.75,262.47916666666663,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74792762,26.0,3.25,566.34375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74792766,26.0,3.25,240.125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74792767,36.0,4.5,435.875,8.0,Villagers,4.0,8,Reason: All werewolves exiled.
+74792768,35.0,4.375,615.8645833333334,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74792772,24.0,3.0,502.21875,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74792776,29.0,3.625,643.1145833333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74792777,23.0,2.875,425.08333333333337,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74792783,36.0,4.5,379.54166666666663,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74792793,26.0,3.25,563.125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74792794,34.0,4.25,395.8541666666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74792801,24.0,3.0,424.78125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74792804,25.0,3.125,377.8125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74792806,32.0,4.0,498.9270833333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74792844,26.0,3.25,398.65625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74792845,34.0,4.25,693.8854166666666,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74792855,30.0,3.75,648.2708333333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74792866,28.0,3.5,342.4375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74792872,30.0,3.75,517.0520833333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74792881,38.0,4.75,375.6041666666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74792887,24.0,3.0,425.78125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74792930,30.0,3.75,640.84375,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74792932,26.0,3.25,283.28125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74792936,24.0,3.0,626.8125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74792940,24.0,3.0,549.09375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74792944,24.0,3.0,335.875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74792945,24.0,3.0,518.53125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74792948,24.0,3.0,429.0625,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74792952,28.0,3.5,473.96875,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74792964,24.0,3.0,775.96875,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74792994,24.0,3.0,538.84375,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74792995,30.0,3.75,431.3541666666667,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74792996,36.0,4.5,509.09375,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74792997,26.0,3.25,288.03125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793000,24.0,3.0,477.71875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793010,26.0,3.25,559.03125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793011,30.0,3.75,283.1875,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74793022,34.0,4.25,672.8229166666666,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74793029,24.0,3.0,412.875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793030,26.0,3.25,370.46875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793032,30.0,3.75,408.13541666666663,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74793041,30.0,3.75,449.09375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793043,26.0,3.25,273.09375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793081,24.0,3.0,298.0625,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74793086,24.0,3.0,491.03125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793090,24.0,3.0,420.75,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793096,36.0,4.5,662.6354166666666,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74793097,30.0,3.75,433.0625,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74793100,30.0,3.75,522.84375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793101,30.0,3.75,505.4375,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74793102,24.0,3.0,394.0625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793141,24.0,3.0,294.46875,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74793160,30.0,3.75,479.4375,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74793161,24.0,3.0,378.15625,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74793163,30.0,3.75,338.2395833333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74793164,30.0,3.75,360.125,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74793166,24.0,3.0,576.6875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793167,24.0,3.0,698.84375,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74793169,26.0,3.25,650.03125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793171,24.0,3.0,420.03125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793173,28.0,3.5,765.5625,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74793180,26.0,3.25,269.90625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793182,23.0,2.875,596.6458333333334,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74793213,24.0,3.0,499.34375,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74793217,23.0,2.875,353.91666666666663,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793220,24.0,3.0,422.28125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793229,36.0,4.5,338.89583333333337,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74793231,28.0,3.5,395.78125,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74793232,24.0,3.0,374.875,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74793240,36.0,4.5,769.8020833333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74793246,36.0,4.5,423.71875,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74793247,28.0,3.5,349.9375,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74793251,30.0,3.75,581.0520833333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74793253,24.0,3.0,350.5,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74793255,38.0,4.75,301.6458333333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74793260,24.0,3.0,519.25,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74793261,30.0,3.75,404.29166666666663,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74793270,24.0,3.0,458.28125,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74793326,32.0,4.0,466.90625,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74793332,30.0,3.75,672.65625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793336,26.0,3.25,284.21875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793344,28.0,3.5,519.21875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793351,26.0,3.25,610.0625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793357,34.0,4.25,478.88541666666663,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74793363,34.0,4.25,498.7916666666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74793366,24.0,3.0,350.90625,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74793368,24.0,3.0,638.8125,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74793401,26.0,3.25,323.3125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793405,26.0,3.25,347.15625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793409,24.0,3.0,451.53125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793427,34.0,4.25,444.5625,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74793434,24.0,3.0,538.75,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74793438,36.0,4.5,543.4270833333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74793445,24.0,3.0,359.625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793455,24.0,3.0,591.4375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793456,26.0,3.25,426.90625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793458,38.0,4.75,473.11458333333337,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74793463,26.0,3.25,532.78125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793466,34.0,4.25,619.4895833333334,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74793468,30.0,3.75,453.625,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74793506,24.0,3.0,334.71875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793518,24.0,3.0,547.09375,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74793524,24.0,3.0,709.96875,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74793526,26.0,3.25,355.90625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793527,24.0,3.0,564.34375,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74793531,24.0,3.0,276.90625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793532,34.0,4.25,553.3125,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74793534,26.0,3.25,475.0625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793549,28.0,3.5,712.21875,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74793556,28.0,3.5,497.65625,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74793559,30.0,3.75,293.8541666666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74793560,24.0,3.0,275.125,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74793572,26.0,3.25,468.8125,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74793577,26.0,3.25,453.34375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793617,24.0,3.0,453.96875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793625,36.0,4.5,506.6979166666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74793628,36.0,4.5,700.1354166666666,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74793630,24.0,3.0,345.34375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793634,40.0,5.0,522.4322916666666,8.0,Villagers,4.0,8,Reason: All werewolves exiled.
+74793636,24.0,3.0,576.90625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793637,24.0,3.0,561.90625,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74793644,30.0,3.75,581.8125,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74793651,30.0,3.75,686.5729166666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74793653,30.0,3.75,420.5,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74793655,24.0,3.0,271.34375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793658,30.0,3.75,300.0520833333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74793668,26.0,3.25,653.15625,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74793669,24.0,3.0,835.875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793670,29.0,3.625,551.2041666666667,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74793676,24.0,3.0,784.625,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74793678,30.0,3.75,553.0416666666666,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74793683,26.0,3.25,374.9375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793685,24.0,3.0,634.53125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793687,24.0,3.0,326.3125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793690,30.0,3.75,394.92708333333337,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74793693,32.0,4.0,486.0,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74793694,34.0,4.25,307.3958333333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74793699,28.0,3.5,420.78125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793707,34.0,4.25,303.8229166666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74793744,26.0,3.25,467.9375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793750,30.0,3.75,295.0208333333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74793765,24.0,3.0,567.1875,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74793766,24.0,3.0,512.5625,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74793772,24.0,3.0,413.1875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793778,30.0,3.75,308.9479166666667,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74793779,32.0,4.0,486.25,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74793780,24.0,3.0,339.90625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793781,29.0,3.625,421.06875,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74793784,24.0,3.0,463.25,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74793815,24.0,3.0,451.625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793816,30.0,3.75,534.8125,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74793817,24.0,3.0,525.96875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793821,24.0,3.0,320.0,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74793822,24.0,3.0,475.03125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793825,30.0,3.75,396.98958333333337,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74793829,30.0,3.75,283.1979166666667,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74793832,26.0,3.25,446.4375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793838,30.0,3.75,379.6458333333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74793850,24.0,3.0,487.96875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793855,24.0,3.0,869.0625,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74793857,24.0,3.0,595.40625,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74793861,30.0,3.75,419.76041666666663,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74793863,32.0,4.0,702.5625,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74793878,24.0,3.0,434.09375,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74793884,36.0,4.5,431.95833333333337,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74793887,26.0,3.25,572.09375,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74793896,24.0,3.0,562.90625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793908,24.0,3.0,399.0625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793943,24.0,3.0,289.75,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793944,38.0,4.75,509.125,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74793947,26.0,3.25,623.625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793949,24.0,3.0,444.34375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793967,30.0,3.75,499.98958333333337,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74793969,28.0,3.5,448.0625,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74793981,24.0,3.0,452.40625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793983,36.0,4.5,569.6666666666666,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74793989,24.0,3.0,489.09375,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74793990,24.0,3.0,486.6875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74793997,32.0,4.0,279.125,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74793998,30.0,3.75,546.7395833333334,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74794003,26.0,3.25,333.0,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794004,28.0,3.5,578.46875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794005,36.0,4.5,521.75,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74794006,30.0,3.75,379.5625,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74794024,26.0,3.25,355.03125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794027,28.0,3.5,495.0,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794029,34.0,4.25,541.6458333333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74794033,30.0,3.75,399.69791666666663,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74794036,24.0,3.0,510.9375,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74794040,30.0,3.75,452.34375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794044,24.0,3.0,416.1875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794049,38.0,4.75,515.3541666666667,8.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74794051,24.0,3.0,531.03125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794053,24.0,3.0,416.9375,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74794059,24.0,3.0,402.34375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794060,30.0,3.75,725.15625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794061,24.0,3.0,432.125,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74794064,28.0,3.5,479.375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794067,34.0,4.25,457.04166666666663,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74794071,29.0,3.625,526.5104166666666,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74794105,38.0,4.75,404.875,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74794106,24.0,3.0,426.4375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794114,24.0,3.0,401.78125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794116,26.0,3.25,561.1875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794119,42.0,5.25,594.1979166666666,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74794121,34.0,4.25,360.2291666666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74794122,34.0,4.25,636.1354166666666,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74794125,30.0,3.75,575.3541666666666,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74794129,30.0,3.75,554.4166666666666,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74794137,30.0,3.75,392.4270833333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74794139,30.0,3.75,400.54166666666663,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74794141,24.0,3.0,335.96875,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74794146,24.0,3.0,358.40625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794149,24.0,3.0,683.0625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794154,24.0,3.0,579.15625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794155,34.0,4.25,343.7708333333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74794156,34.0,4.25,367.09375,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74794163,36.0,4.5,659.0520833333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74794165,34.0,4.25,317.1770833333333,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74794166,30.0,3.75,312.125,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74794201,32.0,4.0,249.92708333333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74794210,24.0,3.0,346.625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794222,42.0,5.25,609.6666666666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74794238,36.0,4.5,511.33333333333337,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74794239,26.0,3.25,271.9375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794242,36.0,4.5,366.3333333333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74794247,30.0,3.75,517.5416666666666,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74794248,30.0,3.75,399.8229166666667,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74794253,38.0,4.75,595.0,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74794255,30.0,3.75,411.75,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74794257,24.0,3.0,385.125,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74794259,38.0,4.75,628.8958333333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74794265,40.0,5.0,492.3229166666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74794268,24.0,3.0,266.65625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794272,30.0,3.75,481.84375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794311,34.0,4.25,289.0833333333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74794313,26.0,3.25,389.3125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794321,28.0,3.5,390.8125,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74794340,30.0,3.75,463.9895833333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74794341,24.0,3.0,311.28125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794343,24.0,3.0,386.40625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794351,28.0,3.5,378.21875,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74794352,28.0,3.5,288.0625,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74794363,26.0,3.25,693.34375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794370,26.0,3.25,355.21875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794372,28.0,3.5,530.0625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794375,24.0,3.0,399.0,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794377,24.0,3.0,430.78125,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74794411,26.0,3.25,509.90625,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74794417,34.0,4.25,426.96875,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74794423,26.0,3.25,375.59375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794425,24.0,3.0,374.0625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794432,34.0,4.25,279.0,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74794450,34.0,4.25,619.9166666666666,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74794452,26.0,3.25,408.15625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794462,30.0,3.75,447.0729166666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74794470,24.0,3.0,304.9375,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74794503,24.0,3.0,379.53125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794504,26.0,3.25,341.125,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74794507,30.0,3.75,382.33333333333337,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74794514,30.0,3.75,435.96875,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74794515,28.0,3.5,370.15625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794528,30.0,3.75,558.15625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794536,24.0,3.0,554.34375,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74794540,25.0,3.125,475.9583333333333,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794547,30.0,3.75,381.3125,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74794550,30.0,3.75,533.75,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794554,24.0,3.0,350.875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794555,30.0,3.75,825.5208333333334,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74794561,26.0,3.25,323.03125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794562,36.0,4.5,420.375,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74794565,30.0,3.75,333.0,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74794575,26.0,3.25,371.875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794576,30.0,3.75,283.75,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74794579,24.0,3.0,312.8125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794609,26.0,3.25,432.40625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794610,30.0,3.75,476.4895833333333,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74794619,34.0,4.25,601.0208333333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74794624,24.0,3.0,765.0625,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74794635,34.0,4.25,337.5833333333333,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74794636,30.0,3.75,538.8020833333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74794640,26.0,3.25,465.4375,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74794653,24.0,3.0,406.5625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794656,26.0,3.25,533.40625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794665,30.0,3.75,565.96875,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74794668,30.0,3.75,528.0520833333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74794706,26.0,3.25,400.1875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794710,30.0,3.75,407.9479166666667,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74794717,34.0,4.25,478.10416666666663,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74794726,24.0,3.0,482.34375,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74794731,29.0,3.625,553.7083333333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74794738,30.0,3.75,755.2395833333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74794744,26.0,3.25,375.34375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794756,24.0,3.0,693.53125,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74794757,36.0,4.5,387.58333333333337,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74794762,28.0,3.5,734.0625,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74794764,34.0,4.25,400.6354166666667,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74794765,24.0,3.0,323.40625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794770,24.0,3.0,942.4375,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74794771,24.0,3.0,367.09375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794772,34.0,4.25,453.48958333333337,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74794776,42.0,5.25,385.2083333333333,8.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74794777,34.0,4.25,541.8020833333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74794822,26.0,3.25,323.34375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794828,30.0,3.75,831.4791666666666,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74794837,24.0,3.0,403.46875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794840,30.0,3.75,562.5208333333333,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74794847,26.0,3.25,469.71875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794859,30.0,3.75,671.3333333333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74794860,24.0,3.0,375.9375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794861,34.0,4.25,436.55208333333337,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74794862,30.0,3.75,471.28125,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74794869,30.0,3.75,452.72916666666663,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74794901,28.0,3.5,573.59375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794907,36.0,4.5,695.8020833333334,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74794928,28.0,3.5,325.71875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794929,26.0,3.25,504.125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794935,22.0,2.75,519.375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794936,26.0,3.25,542.40625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794947,26.0,3.25,376.65625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794950,28.0,3.5,477.15625,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74794951,30.0,3.75,892.0208333333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74794952,26.0,3.25,363.03125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74794959,34.0,4.25,733.09375,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74794975,30.0,3.75,299.5833333333333,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74794977,25.0,3.125,380.8958333333333,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74794979,26.0,3.25,487.65625,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74795012,24.0,3.0,572.1875,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74795033,24.0,3.0,647.0,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74795037,26.0,3.25,361.9375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795049,24.0,3.0,292.21875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795066,24.0,3.0,369.21875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795068,24.0,3.0,354.46875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795079,26.0,3.25,818.1875,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74795080,30.0,3.75,832.7916666666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74795084,26.0,3.25,508.78125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795122,24.0,3.0,452.59375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795124,24.0,3.0,1182.5,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74795133,23.0,2.875,568.3958333333334,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74795134,26.0,3.25,442.5,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795137,36.0,4.5,480.5729166666667,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74795148,24.0,3.0,429.6875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795149,30.0,3.75,824.5,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74795151,30.0,3.75,642.625,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74795155,32.0,4.0,353.78125,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74795156,26.0,3.25,369.4375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795165,24.0,3.0,295.15625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795169,24.0,3.0,546.71875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795173,34.0,4.25,479.4479166666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74795175,26.0,3.25,433.375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795177,24.0,3.0,542.96875,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74795181,28.0,3.5,476.53125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795217,24.0,3.0,466.75,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795223,24.0,3.0,634.28125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795230,36.0,4.5,666.5520833333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74795244,26.0,3.25,543.75,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74795254,24.0,3.0,431.53125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795260,40.0,5.0,539.21875,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74795268,28.0,3.5,632.21875,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74795269,36.0,4.5,503.5104166666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74795271,24.0,3.0,490.46875,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74795272,24.0,3.0,460.15625,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74795312,26.0,3.25,279.71875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795317,34.0,4.25,507.8854166666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74795327,34.0,4.25,525.125,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74795337,26.0,3.25,318.125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795342,23.0,2.875,470.2604166666667,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74795350,24.0,3.0,353.375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795353,24.0,3.0,344.84375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795358,28.0,3.5,331.84375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795359,30.0,3.75,620.6354166666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74795360,24.0,3.0,537.875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795364,24.0,3.0,616.34375,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74795366,34.0,4.25,384.88541666666663,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74795370,30.0,3.75,631.0520833333334,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74795408,34.0,4.25,442.41666666666663,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74795412,30.0,3.75,540.6041666666666,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74795421,30.0,3.75,477.21875,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74795430,24.0,3.0,484.125,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74795438,26.0,3.25,455.65625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795440,30.0,3.75,349.125,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74795441,36.0,4.5,720.8125,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74795446,26.0,3.25,625.15625,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74795452,28.0,3.5,529.75,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795456,34.0,4.25,396.5,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74795458,24.0,3.0,370.21875,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74795465,28.0,3.5,625.9375,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74795467,24.0,3.0,419.5625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795473,24.0,3.0,327.84375,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74795480,46.0,5.75,642.75,8.0,Villagers,4.0,8,Reason: All werewolves exiled.
+74795520,30.0,3.75,579.9791666666666,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74795521,32.0,4.0,706.6979166666666,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74795529,34.0,4.25,878.6979166666666,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74795530,26.0,3.25,522.15625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795535,26.0,3.25,566.75,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795538,24.0,3.0,512.375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795541,30.0,3.75,590.7291666666666,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74795546,30.0,3.75,534.6770833333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74795552,24.0,3.0,353.5,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795558,26.0,3.25,492.34375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795562,30.0,3.75,327.14583333333337,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74795563,26.0,3.25,770.71875,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74795565,24.0,3.0,511.90625,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74795567,30.0,3.75,421.61458333333337,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74795572,26.0,3.25,363.34375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795580,24.0,3.0,482.21875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795586,26.0,3.25,344.15625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795587,24.0,3.0,597.40625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795589,29.0,3.625,420.6854166666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74795592,24.0,3.0,641.53125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795604,28.0,3.5,420.1875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795634,30.0,3.75,441.0520833333333,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74795636,30.0,3.75,633.8958333333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74795640,36.0,4.5,568.8020833333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74795641,32.0,4.0,425.5,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74795643,24.0,3.0,317.84375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795644,32.0,4.0,557.75,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74795645,34.0,4.25,649.0,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74795647,26.0,3.25,332.96875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795648,24.0,3.0,350.6875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795650,32.0,4.0,739.375,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74795659,26.0,3.25,509.6875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795661,26.0,3.25,498.25,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74795664,30.0,3.75,657.3125,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74795667,28.0,3.5,359.5625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795669,24.0,3.0,497.6875,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74795676,24.0,3.0,430.625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795681,24.0,3.0,463.1875,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74795698,30.0,3.75,701.0729166666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74795734,36.0,4.5,488.6458333333333,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74795737,24.0,3.0,456.28125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795738,24.0,3.0,450.0,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74795742,23.0,2.875,406.28125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795749,30.0,3.75,364.1354166666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74795753,34.0,4.25,596.1458333333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74795758,26.0,3.25,558.28125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795759,24.0,3.0,504.65625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795766,30.0,3.75,626.5833333333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74795771,24.0,3.0,439.40625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795780,24.0,3.0,359.4375,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74795781,24.0,3.0,730.5,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74795785,26.0,3.25,397.6875,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74795786,30.0,3.75,474.09375,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74795787,30.0,3.75,341.5520833333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74795792,28.0,3.5,769.875,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74795793,24.0,3.0,343.9375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795795,24.0,3.0,579.4375,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74795798,28.0,3.5,674.1875,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74795802,30.0,3.75,337.4791666666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74795861,28.0,3.5,584.40625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795868,42.0,5.25,469.6145833333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74795869,30.0,3.75,736.25,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74795872,24.0,3.0,617.40625,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74795889,30.0,3.75,467.8645833333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74795894,24.0,3.0,512.6875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795934,30.0,3.75,428.9375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795938,34.0,4.25,399.0729166666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74795940,28.0,3.5,652.25,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795944,27.0,3.375,406.3229166666667,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795946,24.0,3.0,347.65625,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74795950,24.0,3.0,370.21875,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74795955,40.0,5.0,407.2395833333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74795960,32.0,4.0,421.03125,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74795962,28.0,3.5,417.0625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74795976,30.0,3.75,803.1458333333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74795980,24.0,3.0,434.53125,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74795984,29.0,3.625,284.9583333333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74796022,24.0,3.0,328.125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796023,26.0,3.25,477.1875,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74796026,24.0,3.0,463.21875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796032,24.0,3.0,375.375,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74796036,30.0,3.75,459.8854166666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74796051,30.0,3.75,438.52083333333337,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74796057,24.0,3.0,286.15625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796060,24.0,3.0,354.75,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796070,30.0,3.75,277.0833333333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74796072,30.0,3.75,450.9166666666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74796078,30.0,3.75,550.4166666666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74796081,30.0,3.75,515.2291666666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74796082,30.0,3.75,746.21875,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74796088,24.0,3.0,635.1875,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74796089,26.0,3.25,397.125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796091,23.0,2.875,490.23958333333337,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74796098,29.0,3.625,394.38958333333335,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74796099,32.0,4.0,394.8541666666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74796103,30.0,3.75,745.28125,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74796109,36.0,4.5,701.7708333333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74796141,24.0,3.0,362.6875,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74796142,24.0,3.0,492.375,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74796146,30.0,3.75,654.5625,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74796148,30.0,3.75,461.5625,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74796152,26.0,3.25,299.40625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796163,36.0,4.5,225.85416666666666,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74796165,24.0,3.0,700.9375,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74796169,30.0,3.75,475.1875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796170,28.0,3.5,468.28125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796179,24.0,3.0,595.75,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74796184,24.0,3.0,456.46875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796185,28.0,3.5,473.375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796186,30.0,3.75,413.3125,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74796189,24.0,3.0,672.3125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796196,30.0,3.75,558.5520833333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74796199,24.0,3.0,551.375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796241,26.0,3.25,384.28125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796242,30.0,3.75,351.48958333333337,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74796245,26.0,3.25,251.65625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796250,46.0,5.75,579.3697916666666,8.0,Villagers,4.0,8,Reason: All werewolves exiled.
+74796255,28.0,3.5,537.59375,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74796257,24.0,3.0,295.3125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796262,32.0,4.0,498.6145833333333,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74796270,30.0,3.75,415.64583333333337,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74796279,26.0,3.25,512.53125,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74796298,26.0,3.25,512.84375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796301,40.0,5.0,528.09375,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74796335,29.0,3.625,401.06666666666666,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74796337,24.0,3.0,896.8125,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74796339,34.0,4.25,658.3645833333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74796341,26.0,3.25,396.78125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796367,36.0,4.5,641.2916666666666,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74796373,24.0,3.0,402.96875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796377,24.0,3.0,463.09375,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74796387,46.0,5.75,983.171875,8.0,Villagers,4.0,8,Reason: All werewolves exiled.
+74796401,24.0,3.0,542.4375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796410,24.0,3.0,505.9375,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74796446,24.0,3.0,516.0625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796447,24.0,3.0,581.5625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796448,28.0,3.5,478.4375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796451,24.0,3.0,509.78125,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74796465,24.0,3.0,405.65625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796468,24.0,3.0,801.3125,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74796473,30.0,3.75,663.53125,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74796475,26.0,3.25,430.65625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796476,24.0,3.0,463.40625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796477,24.0,3.0,544.125,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74796484,30.0,3.75,306.7291666666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74796487,24.0,3.0,635.84375,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74796490,24.0,3.0,866.5,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74796491,26.0,3.25,361.71875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796495,26.0,3.25,273.5,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796497,26.0,3.25,324.875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796504,26.0,3.25,463.125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796506,30.0,3.75,315.8020833333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74796510,24.0,3.0,374.375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796516,30.0,3.75,696.96875,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74796554,32.0,4.0,445.875,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74796562,24.0,3.0,388.09375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796573,34.0,4.25,368.5729166666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74796581,24.0,3.0,299.375,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74796583,24.0,3.0,512.34375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796588,28.0,3.5,510.96875,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74796591,24.0,3.0,364.46875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796594,34.0,4.25,439.70833333333337,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74796595,26.0,3.25,355.59375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796606,26.0,3.25,325.84375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796615,24.0,3.0,532.71875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796616,26.0,3.25,409.5625,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74796618,24.0,3.0,460.4375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796627,26.0,3.25,651.875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796663,24.0,3.0,360.71875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796665,26.0,3.25,381.09375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796666,38.0,4.75,750.2291666666666,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74796668,30.0,3.75,364.21875,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74796672,28.0,3.5,771.1875,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74796681,30.0,3.75,324.8958333333333,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74796682,28.0,3.5,384.8125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796685,36.0,4.5,803.6875,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74796687,24.0,3.0,580.625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796691,36.0,4.5,585.9583333333334,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74796693,28.0,3.5,399.96875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796697,38.0,4.75,609.2083333333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74796703,26.0,3.25,565.8125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796708,30.0,3.75,470.0,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74796709,24.0,3.0,637.5,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796711,24.0,3.0,424.1875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796712,34.0,4.25,523.21875,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74796714,24.0,3.0,456.25,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74796715,24.0,3.0,582.46875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796720,24.0,3.0,563.0625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796730,28.0,3.5,425.125,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74796765,30.0,3.75,433.7916666666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74796771,30.0,3.75,713.5625,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74796777,32.0,4.0,334.03125,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74796787,26.0,3.25,345.3125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796791,26.0,3.25,324.0625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796817,36.0,4.5,464.0625,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74796821,38.0,4.75,400.9270833333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74796825,26.0,3.25,598.3125,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74796828,39.0,4.875,761.4895833333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74796834,26.0,3.25,425.59375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796840,24.0,3.0,506.6875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796875,26.0,3.25,360.9375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796878,36.0,4.5,447.4895833333333,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74796885,30.0,3.75,542.84375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796887,30.0,3.75,656.7916666666667,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74796894,24.0,3.0,989.21875,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74796911,34.0,4.25,569.9375,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74796924,28.0,3.5,437.84375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796925,24.0,3.0,567.3125,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74796961,24.0,3.0,357.0625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796965,24.0,3.0,588.8125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796967,44.0,5.5,369.06770833333337,8.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74796970,26.0,3.25,475.4375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74796987,28.0,3.5,398.46875,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74796990,34.0,4.25,692.8020833333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74797003,30.0,3.75,439.45833333333337,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74797004,30.0,3.75,413.3645833333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74797014,29.0,3.625,296.0125,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74797016,32.0,4.0,668.8645833333334,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74797021,26.0,3.25,354.0,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797022,24.0,3.0,547.8125,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74797039,30.0,3.75,711.9895833333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74797074,32.0,4.0,312.98958333333337,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74797075,28.0,3.5,354.90625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797080,33.0,4.125,391.4791666666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74797086,24.0,3.0,944.5,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797089,30.0,3.75,683.3333333333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74797090,30.0,3.75,575.1666666666666,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74797091,30.0,3.75,677.0833333333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74797100,28.0,3.5,347.84375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797101,30.0,3.75,363.5208333333333,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74797117,36.0,4.5,403.7291666666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74797121,24.0,3.0,305.875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797123,26.0,3.25,271.6875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797124,30.0,3.75,381.9375,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74797137,34.0,4.25,444.5625,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74797142,36.0,4.5,426.7604166666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74797181,24.0,3.0,441.3125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797190,26.0,3.25,415.78125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797196,30.0,3.75,574.3541666666666,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74797200,26.0,3.25,435.5,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797203,26.0,3.25,530.5625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797208,29.0,3.625,614.2395833333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74797209,34.0,4.25,392.2291666666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74797210,24.0,3.0,477.40625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797214,24.0,3.0,421.875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797217,33.0,4.125,425.6333333333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74797220,26.0,3.25,410.9375,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74797225,26.0,3.25,295.40625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797234,32.0,4.0,673.8125,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74797268,30.0,3.75,464.22916666666663,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74797277,24.0,3.0,433.125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797279,24.0,3.0,552.65625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797281,26.0,3.25,558.125,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74797288,34.0,4.25,444.6666666666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74797299,30.0,3.75,558.3125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797300,24.0,3.0,327.9375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797304,24.0,3.0,525.0,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74797305,30.0,3.75,482.2604166666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74797310,26.0,3.25,607.75,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797312,28.0,3.5,411.71875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797322,26.0,3.25,684.375,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74797323,24.0,3.0,325.40625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797325,26.0,3.25,556.4375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797331,34.0,4.25,725.09375,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74797337,36.0,4.5,575.5416666666666,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74797373,30.0,3.75,451.6875,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74797382,48.0,6.0,459.1822916666667,8.0,Villagers,4.0,8,Reason: All werewolves exiled.
+74797383,28.0,3.5,506.8125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797387,30.0,3.75,557.8229166666666,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74797399,24.0,3.0,442.90625,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74797405,30.0,3.75,471.7291666666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74797412,24.0,3.0,482.21875,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74797415,30.0,3.75,390.7708333333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74797416,24.0,3.0,308.875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797417,30.0,3.75,795.2708333333333,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74797418,28.0,3.5,585.375,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74797423,30.0,3.75,269.7395833333333,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74797435,28.0,3.5,745.125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797480,24.0,3.0,525.6875,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74797498,34.0,4.25,459.8125,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74797510,34.0,4.25,578.2395833333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74797516,30.0,3.75,473.3125,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74797518,26.0,3.25,420.3125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797524,28.0,3.5,772.0625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797525,24.0,3.0,618.21875,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74797528,28.0,3.5,677.1875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797539,28.0,3.5,588.6875,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74797542,30.0,3.75,638.7083333333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74797544,26.0,3.25,374.3125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797549,24.0,3.0,561.46875,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74797551,26.0,3.25,243.40625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797554,36.0,4.5,402.92708333333337,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74797560,29.0,3.625,665.5166666666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74797564,30.0,3.75,594.3125,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74797568,24.0,3.0,839.90625,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74797602,26.0,3.25,293.59375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797625,24.0,3.0,520.96875,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74797643,24.0,3.0,542.53125,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74797648,24.0,3.0,481.5625,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74797656,24.0,3.0,360.46875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797657,26.0,3.25,556.46875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797705,24.0,3.0,425.5625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797708,30.0,3.75,249.02083333333331,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74797709,26.0,3.25,395.75,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797713,24.0,3.0,550.0,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74797714,30.0,3.75,555.6458333333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74797728,38.0,4.75,619.9583333333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74797734,36.0,4.5,417.9375,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74797738,24.0,3.0,610.46875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797744,28.0,3.5,675.75,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797748,26.0,3.25,578.03125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797749,30.0,3.75,319.625,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74797762,30.0,3.75,523.1458333333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74797765,23.0,2.875,406.2395833333333,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797767,44.0,5.5,361.15625,8.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74797768,29.0,3.625,551.0625,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74797769,30.0,3.75,440.9479166666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74797775,24.0,3.0,480.5,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797776,24.0,3.0,354.5625,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74797807,26.0,3.25,467.125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797808,24.0,3.0,545.4375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797811,30.0,3.75,634.0520833333333,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74797822,30.0,3.75,644.5729166666666,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74797825,24.0,3.0,436.53125,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74797831,24.0,3.0,386.78125,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74797847,24.0,3.0,391.5625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797848,26.0,3.25,462.375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797850,36.0,4.5,652.375,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74797851,24.0,3.0,403.5,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74797866,26.0,3.25,557.375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797867,30.0,3.75,614.3020833333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74797899,24.0,3.0,598.65625,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74797901,25.0,3.125,515.59375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797905,30.0,3.75,698.7083333333334,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74797906,30.0,3.75,503.1145833333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74797908,26.0,3.25,374.34375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797912,26.0,3.25,416.65625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797914,30.0,3.75,668.125,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74797917,28.0,3.5,461.78125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797920,36.0,4.5,533.90625,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74797926,26.0,3.25,352.8125,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74797931,28.0,3.5,766.1875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797932,37.0,4.625,564.3895833333333,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74797937,24.0,3.0,456.375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797941,36.0,4.5,387.6145833333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74797954,26.0,3.25,261.1875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797956,28.0,3.5,373.9791666666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74797957,24.0,3.0,681.3125,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74797958,28.0,3.5,649.59375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74797997,30.0,3.75,435.5416666666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74798010,30.0,3.75,501.6979166666667,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74798011,36.0,4.5,722.9583333333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74798012,29.0,3.625,515.28125,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74798014,34.0,4.25,431.04166666666663,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74798016,26.0,3.25,333.34375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798028,28.0,3.5,374.8125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798031,26.0,3.25,347.0,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798033,26.0,3.25,284.0,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798036,30.0,3.75,373.6770833333333,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74798042,25.0,3.125,474.82291666666663,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798043,30.0,3.75,499.85416666666663,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74798052,24.0,3.0,373.125,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74798053,24.0,3.0,531.1875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798089,34.0,4.25,456.96875,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74798092,32.0,4.0,643.6875,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74798094,24.0,3.0,285.0,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74798096,26.0,3.25,319.84375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798098,24.0,3.0,678.78125,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74798101,24.0,3.0,514.65625,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74798104,24.0,3.0,590.25,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798110,24.0,3.0,423.96875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798117,24.0,3.0,621.46875,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74798119,24.0,3.0,332.6875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798124,26.0,3.25,264.3125,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74798125,29.0,3.625,561.0208333333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74798126,24.0,3.0,416.3125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798127,30.0,3.75,583.15625,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74798129,30.0,3.75,692.875,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74798161,30.0,3.75,485.25,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74798162,34.0,4.25,230.53125,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74798164,24.0,3.0,381.78125,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74798200,33.0,4.125,344.55833333333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74798201,34.0,4.25,336.58333333333337,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74798208,24.0,3.0,472.125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798212,30.0,3.75,523.0729166666666,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74798215,24.0,3.0,483.53125,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74798220,24.0,3.0,638.71875,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74798223,26.0,3.25,578.03125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798226,24.0,3.0,303.65625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798230,30.0,3.75,816.4166666666666,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74798239,30.0,3.75,498.55208333333337,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74798247,25.0,3.125,322.75,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798257,34.0,4.25,471.48958333333337,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74798265,26.0,3.25,331.3125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798266,26.0,3.25,363.65625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798272,26.0,3.25,605.875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798305,34.0,4.25,228.45833333333331,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74798319,23.0,2.875,304.125,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74798325,26.0,3.25,333.4375,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74798333,23.0,2.875,386.20833333333337,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74798337,24.0,3.0,481.25,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798354,24.0,3.0,345.25,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74798356,26.0,3.25,442.9375,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74798362,24.0,3.0,524.96875,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74798365,33.0,4.125,403.2270833333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74798374,30.0,3.75,476.4791666666667,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74798409,24.0,3.0,333.3125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798414,26.0,3.25,526.75,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74798415,30.0,3.75,594.28125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798417,24.0,3.0,379.59375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798419,30.0,3.75,357.6875,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74798426,26.0,3.25,423.9375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798428,30.0,3.75,435.5729166666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74798432,26.0,3.25,322.1875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798434,22.0,2.75,660.0729166666667,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74798436,24.0,3.0,400.25,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798444,30.0,3.75,423.09375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798446,26.0,3.25,302.8125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798450,28.0,3.5,417.75,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798452,36.0,4.5,496.71875,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74798457,30.0,3.75,551.1354166666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74798459,30.0,3.75,517.4895833333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74798460,30.0,3.75,532.96875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798462,24.0,3.0,431.84375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798508,28.0,3.5,348.5625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798518,24.0,3.0,546.8125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798537,30.0,3.75,317.8854166666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74798542,24.0,3.0,300.5625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798546,28.0,3.5,320.40625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798549,34.0,4.25,704.1041666666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74798551,36.0,4.5,721.6354166666667,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74798552,24.0,3.0,438.34375,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74798554,34.0,4.25,426.3229166666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74798556,26.0,3.25,568.03125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798560,30.0,3.75,270.2395833333333,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74798569,30.0,3.75,657.5833333333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74798578,30.0,3.75,363.7916666666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74798579,26.0,3.25,473.96875,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74798581,30.0,3.75,405.25,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74798591,26.0,3.25,329.40625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798607,36.0,4.5,353.96875,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74798617,28.0,3.5,391.125,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74798619,38.0,4.75,508.8958333333333,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74798622,30.0,3.75,476.8333333333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74798626,36.0,4.5,773.375,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74798630,30.0,3.75,555.4895833333333,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74798631,36.0,4.5,406.16666666666663,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74798639,23.0,2.875,420.0520833333333,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74798643,43.0,5.375,536.5541666666667,8.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74798648,26.0,3.25,379.5625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798685,30.0,3.75,395.71875,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74798713,28.0,3.5,482.09375,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74798715,26.0,3.25,400.84375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798721,24.0,3.0,320.0,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74798722,24.0,3.0,441.4375,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74798724,24.0,3.0,396.3125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798729,36.0,4.5,808.3333333333334,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74798731,36.0,4.5,690.40625,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74798736,30.0,3.75,325.2083333333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74798737,24.0,3.0,275.28125,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74798745,30.0,3.75,561.3645833333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74798779,24.0,3.0,615.5625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798781,30.0,3.75,421.9375,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74798787,30.0,3.75,557.34375,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74798789,28.0,3.5,558.125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798793,36.0,4.5,693.71875,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74798794,24.0,3.0,378.8125,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74798796,36.0,4.5,484.33333333333337,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74798799,24.0,3.0,509.75,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798811,30.0,3.75,388.60416666666663,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74798817,24.0,3.0,262.71875,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74798818,24.0,3.0,511.875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798827,24.0,3.0,394.125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798831,28.0,3.5,428.40625,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74798835,30.0,3.75,299.0520833333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74798837,24.0,3.0,361.21875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798850,30.0,3.75,498.20833333333337,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74798851,42.0,5.25,296.984375,8.0,Villagers,4.0,8,Reason: All werewolves exiled.
+74798894,24.0,3.0,445.1875,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74798895,24.0,3.0,602.125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798896,24.0,3.0,341.84375,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74798897,33.0,4.125,429.04791666666665,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74798898,24.0,3.0,258.8125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798901,28.0,3.5,583.375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798904,28.0,3.5,409.0625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798908,28.0,3.5,496.375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798910,28.0,3.5,373.125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798916,26.0,3.25,245.15625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798931,26.0,3.25,364.15625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798936,26.0,3.25,575.625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798937,26.0,3.25,400.65625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798954,24.0,3.0,720.46875,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74798994,24.0,3.0,424.5625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798996,24.0,3.0,547.40625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74798999,28.0,3.5,618.71875,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74799001,24.0,3.0,338.46875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74799007,26.0,3.25,631.1875,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74799011,24.0,3.0,399.6875,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74799012,30.0,3.75,530.3854166666666,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74799029,34.0,4.25,429.6875,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74799035,40.0,5.0,738.6979166666666,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74799036,24.0,3.0,397.5625,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74799039,30.0,3.75,566.5416666666666,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74799046,28.0,3.5,569.21875,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74799078,26.0,3.25,472.28125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74799086,24.0,3.0,526.1875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74799093,24.0,3.0,628.3125,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74799094,24.0,3.0,598.71875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74799098,28.0,3.5,505.15625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74799099,30.0,3.75,548.8854166666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74799101,30.0,3.75,409.7604166666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74799102,30.0,3.75,473.26041666666663,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74799112,34.0,4.25,483.3645833333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74799124,28.0,3.5,499.375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74799126,24.0,3.0,438.40625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74799127,30.0,3.75,637.5520833333334,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74799128,26.0,3.25,392.96875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74799130,30.0,3.75,464.4166666666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74799132,24.0,3.0,603.375,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74799133,34.0,4.25,431.0208333333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74799135,36.0,4.5,446.16666666666663,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74799177,24.0,3.0,459.90625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74799188,28.0,3.5,794.03125,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74799195,24.0,3.0,336.75,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74799199,30.0,3.75,475.5833333333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74799208,30.0,3.75,507.9791666666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74799210,36.0,4.5,443.6458333333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74799218,32.0,4.0,545.1770833333334,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74799220,46.0,5.75,459.4375,8.0,Villagers,4.0,8,Reason: All werewolves exiled.
+74799221,30.0,3.75,338.1875,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74799227,24.0,3.0,439.09375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74799234,26.0,3.25,598.90625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74799236,24.0,3.0,234.9375,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74799239,28.0,3.5,746.34375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74799245,26.0,3.25,361.375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74799279,30.0,3.75,641.34375,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74799281,30.0,3.75,400.2083333333333,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74799284,24.0,3.0,314.0625,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74799288,24.0,3.0,557.8125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74799297,24.0,3.0,227.90625,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74799304,24.0,3.0,500.5625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74799310,28.0,3.5,367.03125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74799318,28.0,3.5,563.125,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74799323,30.0,3.75,379.9479166666667,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74799325,24.0,3.0,704.375,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74799349,28.0,3.5,746.125,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74799353,34.0,4.25,286.2291666666667,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74799354,34.0,4.25,434.875,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74799360,24.0,3.0,418.40625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74799361,24.0,3.0,381.03125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74799362,24.0,3.0,539.71875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74799395,30.0,3.75,475.73958333333337,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74799400,38.0,4.75,609.2083333333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74799406,34.0,4.25,403.85416666666663,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74799412,24.0,3.0,294.03125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74799415,30.0,3.75,377.1354166666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74799416,26.0,3.25,523.09375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74799417,24.0,3.0,471.46875,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74799418,26.0,3.25,335.09375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74799422,30.0,3.75,416.2604166666667,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74799434,34.0,4.25,300.28125,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74799435,30.0,3.75,447.1666666666667,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74799437,42.0,5.25,833.78125,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74799450,38.0,4.75,463.6354166666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74799462,30.0,3.75,459.75,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74799466,26.0,3.25,324.625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74799471,28.0,3.5,419.03125,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74799502,29.0,3.625,515.8229166666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74799511,26.0,3.25,282.8125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74799516,30.0,3.75,508.6875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74799522,24.0,3.0,436.1875,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74799523,30.0,3.75,714.875,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74799527,24.0,3.0,506.78125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74799530,24.0,3.0,442.25,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74799531,28.0,3.5,568.375,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74799532,24.0,3.0,327.125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74799535,23.0,2.875,359.03125,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74799538,24.0,3.0,474.25,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74799539,30.0,3.75,569.3958333333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74799540,24.0,3.0,434.46875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74799541,36.0,4.5,552.5416666666666,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74799543,34.0,4.25,351.3645833333333,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74799550,24.0,3.0,381.3125,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74799586,24.0,3.0,387.34375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74799590,26.0,3.25,316.21875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74799596,24.0,3.0,533.59375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74799597,36.0,4.5,582.3229166666666,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74799602,24.0,3.0,318.5625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74799611,24.0,3.0,372.4375,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74799616,30.0,3.75,796.5104166666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74799618,26.0,3.25,461.5,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74799620,36.0,4.5,374.875,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74799627,30.0,3.75,399.6875,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74799635,28.0,3.5,459.3125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74799636,24.0,3.0,714.53125,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74799641,28.0,3.5,354.34375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74799645,46.0,5.75,689.2552083333333,8.0,Villagers,4.0,8,Reason: All werewolves exiled.
+74799649,26.0,3.25,606.9375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74799650,26.0,3.25,408.84375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74799652,36.0,4.5,442.53125,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74799687,31.0,3.875,393.33958333333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74799697,24.0,3.0,376.34375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74799710,24.0,3.0,606.9375,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74799721,29.0,3.625,563.6729166666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74799724,26.0,3.25,362.9375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74799728,25.0,3.125,340.2604166666667,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74799729,41.0,5.125,660.0,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74799733,30.0,3.75,481.3645833333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74799742,24.0,3.0,488.625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74799743,32.0,4.0,435.2604166666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74799761,22.0,2.75,397.98958333333337,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74799775,33.0,4.125,646.1291666666666,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74799777,24.0,3.0,464.25,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74799780,24.0,3.0,299.0,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74799813,24.0,3.0,352.84375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74799820,24.0,3.0,374.0,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74799821,34.0,4.25,571.1666666666666,6.0,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74799832,30.0,3.75,666.3020833333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74799836,24.0,3.0,303.96875,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74799840,24.0,3.0,651.15625,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74799843,24.0,3.0,308.65625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74799845,24.0,3.0,469.90625,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74799854,34.0,4.25,492.6458333333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74799858,30.0,3.75,677.46875,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74799864,30.0,3.75,491.01041666666663,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74799870,30.0,3.75,500.0833333333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74799876,26.0,3.25,520.9375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74799897,26.0,3.25,249.59375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74799927,30.0,3.75,316.875,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74799930,29.0,3.625,505.03125,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74799938,30.0,3.75,682.3020833333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74799939,24.0,3.0,436.625,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74799947,34.0,4.25,530.3333333333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74799949,30.0,3.75,606.8958333333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74799954,30.0,3.75,466.5833333333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74799955,24.0,3.0,369.96875,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74799958,36.0,4.5,538.0729166666666,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74799962,30.0,3.75,466.9375,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74799963,34.0,4.25,852.4479166666666,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74799969,32.0,4.0,640.6979166666666,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74799970,26.0,3.25,331.03125,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74799985,22.0,2.75,373.25,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74799987,30.0,3.75,404.30208333333337,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74800000,28.0,3.5,467.875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74800037,24.0,3.0,416.9375,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74800045,44.0,5.5,731.34375,8.0,Werewolves,5.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74800046,32.0,4.0,739.3020833333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74800047,24.0,3.0,467.3125,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74800048,24.0,3.0,451.8125,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74800052,32.0,4.0,475.5833333333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74800054,30.0,3.75,402.9895833333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74800055,32.0,4.0,290.4791666666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74800062,24.0,3.0,518.46875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74800065,24.0,3.0,749.9375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74800071,29.0,3.625,460.1625,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74800078,30.0,3.75,453.375,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74800081,30.0,3.75,365.8958333333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74800083,24.0,3.0,316.65625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74800086,24.0,3.0,368.96875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74800089,32.0,4.0,333.7604166666667,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74800123,34.0,4.25,415.28125,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74800124,24.0,3.0,565.90625,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74800131,23.0,2.875,473.0833333333333,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74800134,26.0,3.25,337.34375,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74800137,26.0,3.25,414.5,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74800138,30.0,3.75,427.69791666666663,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74800158,38.0,4.75,523.125,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74800159,24.0,3.0,467.8125,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74800164,26.0,3.25,470.5,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74800165,28.0,3.5,687.46875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74800174,28.0,3.5,498.0625,4.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74800175,26.0,3.25,329.84375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74800178,34.0,4.25,668.0729166666666,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74800187,24.0,3.0,390.875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74800226,30.0,3.75,523.59375,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74800237,24.0,3.0,691.90625,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74800238,24.0,3.0,600.84375,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74800247,30.0,3.75,476.9375,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74800258,34.0,4.25,368.0520833333333,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74800264,24.0,3.0,320.0625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74800265,23.0,2.875,590.4166666666666,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74800294,24.0,3.0,343.875,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74800327,24.0,3.0,321.0625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74800333,30.0,3.75,836.5625,6.0,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1)."
+74800340,30.0,3.75,708.9270833333334,6.0,Villagers,3.0,8,Reason: All werewolves exiled.
+74800346,26.0,3.25,255.25,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
+74800348,24.0,3.0,383.25,4.0,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2)."
+74800350,26.0,3.25,344.40625,4.0,Villagers,2.0,8,Reason: All werewolves exiled.
