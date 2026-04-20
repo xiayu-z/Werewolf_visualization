@@ -1,0 +1,1436 @@
+game_id,filename,winner_team,last_day,n_players,end_reason,total_day_votes,total_night_votes,n_rounds,n_tie_rounds,avg_concentration,tie_rate,avg_night_agreement
+74788902,74788902.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8785714285714286,0.0,1.0
+74788904,74788904.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74788934,74788934.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",18,6,7,0,0.9047619047619049,0.0,1.0
+74788967,74788967.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",13,6,5,0,0.9047619047619048,0.0,1.0
+74788999,74788999.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74789000,74789000.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8634920634920635,0.0,1.0
+74789096,74789096.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",14,6,5,0,0.8833333333333332,0.0,1.0
+74789224,74789224.json,Villagers,3.0,8,Reason: All werewolves exiled.,16,5,6,0,0.8678571428571429,0.0,1.0
+74789286,74789286.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74789319,74789319.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74789348,74789348.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",13,6,5,0,0.9380952380952381,0.0,1.0
+74789380,74789380.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",13,6,5,0,0.9380952380952381,0.0,1.0
+74789412,74789412.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74789441,74789441.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74789534,74789534.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,5,6,0,0.861111111111111,0.0,1.0
+74789723,74789723.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,4,6,0,0.8539682539682539,0.0,1.0
+74789727,74789727.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74789792,74789792.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74789799,74789799.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,5,6,0,0.9097222222222222,0.0,1.0
+74789828,74789828.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74789830,74789830.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8785714285714286,0.0,1.0
+74789831,74789831.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8301587301587302,0.0,1.0
+74789901,74789901.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74789939,74789939.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",13,6,5,0,0.9380952380952381,0.0,1.0
+74789943,74789943.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74789984,74789984.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8785714285714286,0.0,1.0
+74789993,74789993.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74789995,74789995.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74789997,74789997.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,4,6,0,0.9067460317460317,0.0,1.0
+74789998,74789998.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74790010,74790010.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74790013,74790013.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9166666666666667,0.0,1.0
+74790017,74790017.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74790020,74790020.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74790036,74790036.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74790047,74790047.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,6,5,1,0.8514285714285714,0.2,1.0
+74790050,74790050.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8869047619047619,0.0,1.0
+74790053,74790053.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8285714285714285,0.0,1.0
+74790060,74790060.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74790067,74790067.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74790077,74790077.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",13,6,5,0,0.9380952380952381,0.0,1.0
+74790080,74790080.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,5,6,2,0.7523809523809524,0.3333333333333333,0.8333333333333334
+74790082,74790082.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74790092,74790092.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.9067460317460317,0.0,1.0
+74790094,74790094.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74790099,74790099.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74790103,74790103.json,Villagers,3.0,8,Reason: All werewolves exiled.,20,5,6,0,0.880357142857143,0.0,1.0
+74790112,74790112.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74790127,74790127.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.8958333333333334,0.0,1.0
+74790129,74790129.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74790135,74790135.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74790138,74790138.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74790147,74790147.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.8958333333333334,0.0,1.0
+74790153,74790153.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74790154,74790154.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74790162,74790162.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",11,4,4,0,0.8303571428571428,0.0,1.0
+74790165,74790165.json,Villagers,2.0,8,Reason: All werewolves exiled.,15,3,4,0,0.9017857142857143,0.0,1.0
+74790166,74790166.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74790172,74790172.json,Villagers,4.0,8,Reason: All werewolves exiled.,21,6,8,0,0.8738095238095238,0.0,1.0
+74790176,74790176.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8785714285714286,0.0,1.0
+74790182,74790182.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8869047619047619,0.0,1.0
+74790183,74790183.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,4,6,0,0.8873015873015873,0.0,1.0
+74790185,74790185.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8428571428571429,0.0,1.0
+74790197,74790197.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74790200,74790200.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",11,6,5,1,0.8142857142857143,0.2,1.0
+74790201,74790201.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74790212,74790212.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8301587301587302,0.0,1.0
+74790213,74790213.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",16,6,7,0,0.8948979591836734,0.0,1.0
+74790220,74790220.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",14,6,5,0,0.9083333333333332,0.0,1.0
+74790226,74790226.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",18,5,7,0,0.9226190476190477,0.0,1.0
+74790228,74790228.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,4,6,0,0.8873015873015873,0.0,1.0
+74790229,74790229.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74790231,74790231.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74790232,74790232.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74790265,74790265.json,Villagers,3.0,8,Reason: All werewolves exiled.,16,5,6,0,0.8678571428571429,0.0,1.0
+74790301,74790301.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74790302,74790302.json,Villagers,3.0,8,Reason: All werewolves exiled.,20,5,6,0,0.9220238095238096,0.0,1.0
+74790336,74790336.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74790339,74790339.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",18,6,6,2,0.7880952380952381,0.3333333333333333,1.0
+74790408,74790408.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74790415,74790415.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8428571428571429,0.0,1.0
+74790420,74790420.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8063492063492063,0.0,1.0
+74790421,74790421.json,Villagers,3.0,8,Reason: All werewolves exiled.,21,5,6,1,0.8650793650793651,0.16666666666666666,1.0
+74790429,74790429.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74790430,74790430.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8785714285714286,0.0,1.0
+74790435,74790435.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,5,6,0,0.8396825396825397,0.0,1.0
+74790447,74790447.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,4,6,0,0.8539682539682539,0.0,1.0
+74790448,74790448.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74790466,74790466.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8642857142857143,0.0,1.0
+74790489,74790489.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74790493,74790493.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8285714285714285,0.0,1.0
+74790507,74790507.json,Villagers,2.0,8,Reason: All werewolves exiled.,11,3,4,0,0.9017857142857143,0.0,1.0
+74790514,74790514.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.9067460317460317,0.0,1.0
+74790519,74790519.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",13,6,5,0,0.9047619047619048,0.0,1.0
+74790535,74790535.json,Villagers,3.0,8,Reason: All werewolves exiled.,19,5,6,0,0.9180555555555556,0.0,1.0
+74790538,74790538.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8785714285714286,0.0,1.0
+74790540,74790540.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.8829365079365079,0.0,1.0
+74790549,74790549.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74790559,74790559.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.8958333333333334,0.0,1.0
+74790561,74790561.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74790563,74790563.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74790568,74790568.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74790569,74790569.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74790572,74790572.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,4,6,0,0.8873015873015873,0.0,1.0
+74790575,74790575.json,Villagers,3.0,8,Reason: All werewolves exiled.,16,5,6,0,0.8928571428571428,0.0,1.0
+74790577,74790577.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74790578,74790578.json,Villagers,3.0,8,Reason: All werewolves exiled.,19,5,6,0,0.9180555555555556,0.0,1.0
+74790610,74790610.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74790616,74790616.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74790649,74790649.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74790650,74790650.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8428571428571429,0.0,1.0
+74790652,74790652.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",13,6,5,0,0.9047619047619048,0.0,1.0
+74790681,74790681.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74790718,74790718.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,4,6,0,0.8873015873015873,0.0,1.0
+74790719,74790719.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74790757,74790757.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74790758,74790758.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74790759,74790759.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74790796,74790796.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8301587301587302,0.0,1.0
+74790828,74790828.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74790829,74790829.json,Villagers,2.0,8,Reason: All werewolves exiled.,15,3,4,0,0.9330357142857143,0.0,1.0
+74790832,74790832.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",14,6,5,0,0.9416666666666667,0.0,1.0
+74790866,74790866.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",17,6,7,0,0.8792517006802721,0.0,1.0
+74790878,74790878.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74790881,74790881.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74790888,74790888.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74790890,74790890.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74790893,74790893.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,4,6,0,0.8829365079365079,0.0,1.0
+74790915,74790915.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74790918,74790918.json,Villagers,2.0,8,Reason: All werewolves exiled.,15,3,4,0,0.9330357142857143,0.0,1.0
+74790921,74790921.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,4,6,0,0.8873015873015873,0.0,1.0
+74790929,74790929.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74790935,74790935.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,5,6,0,0.9097222222222222,0.0,1.0
+74790936,74790936.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,5,6,0,0.8819444444444443,0.0,1.0
+74790937,74790937.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8396825396825397,0.0,1.0
+74790948,74790948.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,5,6,0,0.8873015873015873,0.0,1.0
+74790953,74790953.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8428571428571429,0.0,1.0
+74790963,74790963.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74790972,74790972.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",18,6,7,0,0.9226190476190477,0.0,1.0
+74790973,74790973.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8785714285714286,0.0,1.0
+74790974,74790974.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",14,6,7,1,0.8387755102040817,0.14285714285714285,1.0
+74790975,74790975.json,Villagers,2.0,8,Reason: All werewolves exiled.,15,3,4,0,0.9330357142857143,0.0,1.0
+74790982,74790982.json,Villagers,3.0,8,Reason: All werewolves exiled.,19,5,6,1,0.7999999999999999,0.16666666666666666,1.0
+74790992,74790992.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,5,6,0,0.8819444444444443,0.0,1.0
+74791008,74791008.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",18,5,7,0,0.8988095238095237,0.0,1.0
+74791011,74791011.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74791015,74791015.json,Villagers,2.0,8,Reason: All werewolves exiled.,15,3,4,0,0.9330357142857143,0.0,1.0
+74791016,74791016.json,Villagers,2.0,8,Reason: All werewolves exiled.,15,3,4,0,0.9330357142857143,0.0,1.0
+74791020,74791020.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74791022,74791022.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74791023,74791023.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74791027,74791027.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74791034,74791034.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.9067460317460317,0.0,1.0
+74791035,74791035.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8785714285714286,0.0,1.0
+74791037,74791037.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",14,6,5,0,0.9416666666666667,0.0,1.0
+74791039,74791039.json,Villagers,2.0,8,Reason: All werewolves exiled.,15,3,4,0,0.8973214285714286,0.0,1.0
+74791042,74791042.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.9067460317460317,0.0,1.0
+74791044,74791044.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74791060,74791060.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",14,6,5,0,0.9083333333333332,0.0,1.0
+74791066,74791066.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74791069,74791069.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74791070,74791070.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74791073,74791073.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8869047619047619,0.0,1.0
+74791076,74791076.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8285714285714285,0.0,1.0
+74791077,74791077.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74791079,74791079.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8869047619047619,0.0,1.0
+74791084,74791084.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,4,6,0,0.8873015873015873,0.0,1.0
+74791101,74791101.json,Villagers,3.0,8,Reason: All werewolves exiled.,19,5,6,1,0.8476190476190476,0.16666666666666666,1.0
+74791103,74791103.json,Villagers,3.0,8,Reason: All werewolves exiled.,16,5,6,0,0.8678571428571429,0.0,1.0
+74791106,74791106.json,Villagers,2.0,8,Reason: All werewolves exiled.,15,3,4,0,0.9330357142857143,0.0,1.0
+74791137,74791137.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",19,6,8,1,0.8529761904761904,0.125,1.0
+74791138,74791138.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74791140,74791140.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74791175,74791175.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8428571428571429,0.0,1.0
+74791176,74791176.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",14,6,5,0,0.9416666666666667,0.0,1.0
+74791178,74791178.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8301587301587302,0.0,1.0
+74791208,74791208.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74791212,74791212.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,5,6,0,0.9097222222222222,0.0,1.0
+74791215,74791215.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8642857142857143,0.0,1.0
+74791216,74791216.json,Villagers,4.0,8,Reason: All werewolves exiled.,23,6,8,0,0.8641369047619047,0.0,1.0
+74791219,74791219.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",13,6,5,0,0.9380952380952381,0.0,1.0
+74791221,74791221.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",18,5,7,0,0.9226190476190477,0.0,1.0
+74791231,74791231.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.9067460317460317,0.0,1.0
+74791233,74791233.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.8958333333333334,0.0,1.0
+74791237,74791237.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74791238,74791238.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74791239,74791239.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74791281,74791281.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74791298,74791298.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,4,6,0,0.875,0.0,1.0
+74791303,74791303.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74791307,74791307.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74791313,74791313.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74791314,74791314.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74791318,74791318.json,Villagers,2.0,8,Reason: All werewolves exiled.,11,3,4,0,0.9017857142857143,0.0,1.0
+74791334,74791334.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,5,6,0,0.9097222222222222,0.0,1.0
+74791388,74791388.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.8353174603174603,0.0,1.0
+74791389,74791389.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",14,6,5,0,0.9166666666666666,0.0,1.0
+74791401,74791401.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8511904761904762,0.0,1.0
+74791404,74791404.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74791406,74791406.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,4,6,0,0.878968253968254,0.0,1.0
+74791417,74791417.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8869047619047619,0.0,1.0
+74791419,74791419.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8869047619047619,0.0,1.0
+74791429,74791429.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74791430,74791430.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74791465,74791465.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",17,5,7,0,0.9200680272108844,0.0,1.0
+74791502,74791502.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74791503,74791503.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8285714285714285,0.0,1.0
+74791507,74791507.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8785714285714286,0.0,1.0
+74791510,74791510.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8428571428571429,0.0,1.0
+74791518,74791518.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",13,6,5,1,0.7952380952380953,0.2,1.0
+74791519,74791519.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74791549,74791549.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",13,6,5,0,0.8761904761904763,0.0,1.0
+74791550,74791550.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,4,6,0,0.8873015873015873,0.0,1.0
+74791555,74791555.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74791564,74791564.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74791578,74791578.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8428571428571429,0.0,1.0
+74791580,74791580.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74791608,74791608.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,4,6,0,0.9067460317460317,0.0,1.0
+74791610,74791610.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74791624,74791624.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74791628,74791628.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74791632,74791632.json,Villagers,3.0,8,Reason: All werewolves exiled.,19,5,6,0,0.9180555555555556,0.0,1.0
+74791635,74791635.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74791641,74791641.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74791646,74791646.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8285714285714285,0.0,1.0
+74791677,74791677.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74791681,74791681.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.9067460317460317,0.0,1.0
+74791694,74791694.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",13,6,5,1,0.819047619047619,0.2,1.0
+74791699,74791699.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74791700,74791700.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8511904761904762,0.0,1.0
+74791707,74791707.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,5,6,0,0.8402777777777777,0.0,1.0
+74791711,74791711.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74791712,74791712.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74791716,74791716.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74791721,74791721.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8634920634920635,0.0,1.0
+74791728,74791728.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.8829365079365079,0.0,1.0
+74791730,74791730.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,5,6,0,0.8539682539682539,0.0,1.0
+74791731,74791731.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.8958333333333334,0.0,1.0
+74791741,74791741.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",13,6,5,0,0.9380952380952381,0.0,1.0
+74791746,74791746.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.8829365079365079,0.0,1.0
+74791757,74791757.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8785714285714286,0.0,1.0
+74791770,74791770.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74791771,74791771.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,5,6,0,0.861111111111111,0.0,1.0
+74791774,74791774.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74791803,74791803.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",17,6,7,0,0.9200680272108844,0.0,1.0
+74791806,74791806.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74791809,74791809.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",13,6,5,0,0.9047619047619048,0.0,1.0
+74791810,74791810.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",20,6,6,0,0.9220238095238096,0.0,1.0
+74791811,74791811.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,5,6,0,0.9097222222222222,0.0,1.0
+74791831,74791831.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",13,6,5,0,0.880952380952381,0.0,1.0
+74791844,74791844.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,4,6,0,0.8634920634920635,0.0,1.0
+74791856,74791856.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74791868,74791868.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74791873,74791873.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,5,6,0,0.8873015873015873,0.0,1.0
+74791875,74791875.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74791883,74791883.json,Villagers,4.0,8,Reason: All werewolves exiled.,23,5,8,0,0.8998511904761904,0.0,1.0
+74791891,74791891.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74791924,74791924.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,4,6,0,0.8873015873015873,0.0,1.0
+74791926,74791926.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74791928,74791928.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.9067460317460317,0.0,1.0
+74791932,74791932.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8642857142857143,0.0,1.0
+74791934,74791934.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8869047619047619,0.0,1.0
+74791938,74791938.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",14,6,5,0,0.9416666666666667,0.0,1.0
+74791939,74791939.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74791940,74791940.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,4,6,0,0.9067460317460317,0.0,1.0
+74791945,74791945.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.8854166666666666,0.0,1.0
+74791979,74791979.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.878968253968254,0.0,1.0
+74791990,74791990.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74791998,74791998.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8785714285714286,0.0,1.0
+74792001,74792001.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8785714285714286,0.0,1.0
+74792016,74792016.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8642857142857143,0.0,1.0
+74792047,74792047.json,Villagers,2.0,8,Reason: All werewolves exiled.,15,3,4,0,0.9017857142857143,0.0,1.0
+74792053,74792053.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8063492063492063,0.0,1.0
+74792058,74792058.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,5,6,0,0.8819444444444443,0.0,1.0
+74792061,74792061.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74792063,74792063.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74792064,74792064.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8428571428571429,0.0,1.0
+74792070,74792070.json,Villagers,3.0,8,Reason: All werewolves exiled.,16,5,6,0,0.8678571428571429,0.0,1.0
+74792160,74792160.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",14,6,5,0,0.9166666666666666,0.0,1.0
+74792161,74792161.json,Villagers,2.0,8,Reason: All werewolves exiled.,11,3,4,0,0.9017857142857143,0.0,1.0
+74792168,74792168.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8428571428571429,0.0,1.0
+74792172,74792172.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.7928571428571428,0.0,1.0
+74792173,74792173.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74792178,74792178.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74792194,74792194.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",13,6,5,0,0.9380952380952381,0.0,1.0
+74792202,74792202.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74792204,74792204.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8869047619047619,0.0,1.0
+74792206,74792206.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.9067460317460317,0.0,1.0
+74792208,74792208.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",14,6,5,0,0.9083333333333332,0.0,1.0
+74792212,74792212.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74792214,74792214.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",17,6,7,0,0.8758503401360545,0.0,1.0
+74792215,74792215.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.878968253968254,0.0,1.0
+74792217,74792217.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74792229,74792229.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74792231,74792231.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,4,6,0,0.8873015873015873,0.0,1.0
+74792233,74792233.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,5,6,0,0.8402777777777777,0.0,1.0
+74792236,74792236.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74792241,74792241.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8428571428571429,0.0,1.0
+74792307,74792307.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8869047619047619,0.0,1.0
+74792311,74792311.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",19,6,6,1,0.8013888888888889,0.16666666666666666,1.0
+74792319,74792319.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74792320,74792320.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74792324,74792324.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74792327,74792327.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8063492063492063,0.0,1.0
+74792330,74792330.json,Villagers,2.0,8,Reason: All werewolves exiled.,11,3,4,0,0.9083333333333333,0.0,1.0
+74792331,74792331.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,4,6,0,0.8873015873015873,0.0,1.0
+74792338,74792338.json,Villagers,3.0,8,Reason: All werewolves exiled.,20,5,6,1,0.811904761904762,0.16666666666666666,1.0
+74792341,74792341.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8785714285714286,0.0,1.0
+74792345,74792345.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",13,6,5,0,0.9380952380952381,0.0,1.0
+74792348,74792348.json,Villagers,3.0,8,Reason: All werewolves exiled.,16,5,6,0,0.9011904761904761,0.0,1.0
+74792350,74792350.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74792352,74792352.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8428571428571429,0.0,1.0
+74792354,74792354.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74792356,74792356.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,4,6,0,0.8873015873015873,0.0,1.0
+74792365,74792365.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.9067460317460317,0.0,1.0
+74792366,74792366.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",14,6,5,0,0.875,0.0,1.0
+74792367,74792367.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74792369,74792369.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.7928571428571428,0.0,1.0
+74792380,74792380.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74792421,74792421.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",20,6,6,1,0.8023809523809523,0.16666666666666666,1.0
+74792429,74792429.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74792431,74792431.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,5,6,0,0.9097222222222222,0.0,1.0
+74792433,74792433.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74792438,74792438.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8063492063492063,0.0,1.0
+74792441,74792441.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8785714285714286,0.0,1.0
+74792457,74792457.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74792458,74792458.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",18,5,7,0,0.9226190476190477,0.0,1.0
+74792462,74792462.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74792466,74792466.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74792473,74792473.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74792476,74792476.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74792480,74792480.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74792481,74792481.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",14,6,5,0,0.9416666666666667,0.0,1.0
+74792493,74792493.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,4,6,0,0.8873015873015873,0.0,1.0
+74792499,74792499.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74792530,74792530.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74792535,74792535.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74792537,74792537.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74792538,74792538.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74792547,74792547.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74792554,74792554.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74792562,74792562.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,4,6,0,0.8873015873015873,0.0,1.0
+74792574,74792574.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74792608,74792608.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74792628,74792628.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74792637,74792637.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74792651,74792651.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",16,5,7,0,0.9153061224489795,0.0,1.0
+74792652,74792652.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74792694,74792694.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74792699,74792699.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8785714285714286,0.0,1.0
+74792703,74792703.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74792706,74792706.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",18,6,7,0,0.9226190476190477,0.0,1.0
+74792711,74792711.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74792752,74792752.json,Villagers,4.0,8,Reason: All werewolves exiled.,23,6,8,0,0.8748511904761904,0.0,1.0
+74792753,74792753.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74792756,74792756.json,Villagers,3.0,8,Reason: All werewolves exiled.,16,5,6,0,0.9011904761904761,0.0,1.0
+74792758,74792758.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,4,6,0,0.8873015873015873,0.0,1.0
+74792762,74792762.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8869047619047619,0.0,1.0
+74792766,74792766.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8869047619047619,0.0,1.0
+74792767,74792767.json,Villagers,4.0,8,Reason: All werewolves exiled.,17,6,8,1,0.8279761904761904,0.125,1.0
+74792768,74792768.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",17,5,7,0,0.9107142857142857,0.0,1.0
+74792772,74792772.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74792776,74792776.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8301587301587302,0.0,1.0
+74792777,74792777.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74792783,74792783.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",18,5,7,0,0.9226190476190477,0.0,1.0
+74792793,74792793.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8869047619047619,0.0,1.0
+74792794,74792794.json,Villagers,3.0,8,Reason: All werewolves exiled.,16,5,6,1,0.8194444444444443,0.16666666666666666,1.0
+74792801,74792801.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74792804,74792804.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74792806,74792806.json,Villagers,3.0,8,Reason: All werewolves exiled.,16,5,6,0,0.9011904761904761,0.0,1.0
+74792844,74792844.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74792845,74792845.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",17,5,7,0,0.9200680272108844,0.0,1.0
+74792855,74792855.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,4,6,0,0.8873015873015873,0.0,1.0
+74792866,74792866.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74792872,74792872.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74792881,74792881.json,Villagers,3.0,8,Reason: All werewolves exiled.,19,4,6,0,0.9180555555555556,0.0,1.0
+74792887,74792887.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74792930,74792930.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8301587301587302,0.0,1.0
+74792932,74792932.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74792936,74792936.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74792940,74792940.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74792944,74792944.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74792945,74792945.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74792948,74792948.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74792952,74792952.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",14,6,5,0,0.9416666666666667,0.0,1.0
+74792964,74792964.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74792994,74792994.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74792995,74792995.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,5,6,0,0.8396825396825397,0.0,1.0
+74792996,74792996.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",18,5,7,0,0.9226190476190477,0.0,1.0
+74792997,74792997.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74793000,74793000.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74793010,74793010.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8869047619047619,0.0,1.0
+74793011,74793011.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74793022,74793022.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",17,6,7,0,0.9200680272108844,0.0,1.0
+74793029,74793029.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8785714285714286,0.0,1.0
+74793030,74793030.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74793032,74793032.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74793041,74793041.json,Villagers,2.0,8,Reason: All werewolves exiled.,15,3,4,0,0.9017857142857143,0.0,1.0
+74793043,74793043.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8869047619047619,0.0,1.0
+74793081,74793081.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74793086,74793086.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74793090,74793090.json,Villagers,2.0,8,Reason: All werewolves exiled.,11,3,4,0,0.9017857142857143,0.0,1.0
+74793096,74793096.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",18,5,7,0,0.9226190476190477,0.0,1.0
+74793097,74793097.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,5,6,0,0.8873015873015873,0.0,1.0
+74793100,74793100.json,Villagers,2.0,8,Reason: All werewolves exiled.,15,3,4,0,0.9017857142857143,0.0,1.0
+74793101,74793101.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74793102,74793102.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74793141,74793141.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74793160,74793160.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8301587301587302,0.0,1.0
+74793161,74793161.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8285714285714285,0.0,1.0
+74793163,74793163.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,4,6,0,0.8873015873015873,0.0,1.0
+74793164,74793164.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74793166,74793166.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8642857142857143,0.0,1.0
+74793167,74793167.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8785714285714286,0.0,1.0
+74793169,74793169.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8511904761904762,0.0,1.0
+74793171,74793171.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74793173,74793173.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",14,6,5,0,0.9416666666666667,0.0,1.0
+74793180,74793180.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74793182,74793182.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74793213,74793213.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74793217,74793217.json,Villagers,2.0,8,Reason: All werewolves exiled.,11,3,4,0,0.8660714285714286,0.0,1.0
+74793220,74793220.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74793229,74793229.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,5,6,0,0.8873015873015873,0.0,1.0
+74793231,74793231.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",14,6,5,0,0.9166666666666666,0.0,1.0
+74793232,74793232.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74793240,74793240.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,5,6,0,0.8472222222222222,0.0,1.0
+74793246,74793246.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",18,6,6,1,0.8261904761904763,0.16666666666666666,1.0
+74793247,74793247.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",14,6,5,0,0.9416666666666667,0.0,1.0
+74793251,74793251.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74793253,74793253.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8785714285714286,0.0,1.0
+74793255,74793255.json,Villagers,3.0,8,Reason: All werewolves exiled.,19,5,6,0,0.942857142857143,0.0,1.0
+74793260,74793260.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74793261,74793261.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8396825396825397,0.0,1.0
+74793270,74793270.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74793326,74793326.json,Villagers,3.0,8,Reason: All werewolves exiled.,16,5,6,0,0.9011904761904761,0.0,1.0
+74793332,74793332.json,Villagers,2.0,8,Reason: All werewolves exiled.,15,3,4,0,0.9330357142857143,0.0,1.0
+74793336,74793336.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74793344,74793344.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.8958333333333334,0.0,1.0
+74793351,74793351.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74793357,74793357.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.9067460317460317,0.0,1.0
+74793363,74793363.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.9067460317460317,0.0,1.0
+74793366,74793366.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74793368,74793368.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74793401,74793401.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74793405,74793405.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74793409,74793409.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74793427,74793427.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,4,6,0,0.9067460317460317,0.0,1.0
+74793434,74793434.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8785714285714286,0.0,1.0
+74793438,74793438.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,5,6,0,0.8357142857142857,0.0,1.0
+74793445,74793445.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74793455,74793455.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8785714285714286,0.0,1.0
+74793456,74793456.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8511904761904762,0.0,1.0
+74793458,74793458.json,Villagers,3.0,8,Reason: All werewolves exiled.,19,5,6,0,0.9180555555555556,0.0,1.0
+74793463,74793463.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74793466,74793466.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",16,5,7,0,0.9438775510204083,0.0,1.0
+74793468,74793468.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,5,6,0,0.8634920634920635,0.0,1.0
+74793506,74793506.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74793518,74793518.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74793524,74793524.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74793526,74793526.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8511904761904762,0.0,1.0
+74793527,74793527.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74793531,74793531.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74793532,74793532.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",17,6,7,0,0.9200680272108844,0.0,1.0
+74793534,74793534.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74793549,74793549.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",14,6,5,0,0.8916666666666666,0.0,1.0
+74793556,74793556.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",14,6,5,0,0.9416666666666667,0.0,1.0
+74793559,74793559.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,4,6,0,0.8873015873015873,0.0,1.0
+74793560,74793560.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74793572,74793572.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",13,6,5,0,0.9380952380952381,0.0,1.0
+74793577,74793577.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74793617,74793617.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74793625,74793625.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,5,6,0,0.861111111111111,0.0,1.0
+74793628,74793628.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,5,6,0,0.8888888888888888,0.0,1.0
+74793630,74793630.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74793634,74793634.json,Villagers,4.0,8,Reason: All werewolves exiled.,20,6,8,0,0.8883928571428571,0.0,1.0
+74793636,74793636.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8785714285714286,0.0,1.0
+74793637,74793637.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8285714285714285,0.0,1.0
+74793644,74793644.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8634920634920635,0.0,1.0
+74793651,74793651.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74793653,74793653.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74793655,74793655.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74793658,74793658.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,4,6,0,0.8873015873015873,0.0,1.0
+74793668,74793668.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",13,6,5,0,0.9095238095238095,0.0,1.0
+74793669,74793669.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74793670,74793670.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,5,6,0,0.8873015873015873,0.0,1.0
+74793676,74793676.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74793678,74793678.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,4,6,0,0.8873015873015873,0.0,1.0
+74793683,74793683.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74793685,74793685.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8785714285714286,0.0,1.0
+74793687,74793687.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74793690,74793690.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74793693,74793693.json,Villagers,3.0,8,Reason: All werewolves exiled.,16,5,6,0,0.8773809523809524,0.0,1.0
+74793694,74793694.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.9067460317460317,0.0,1.0
+74793699,74793699.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.8958333333333334,0.0,1.0
+74793707,74793707.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,4,6,0,0.9067460317460317,0.0,1.0
+74793744,74793744.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74793750,74793750.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74793765,74793765.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74793766,74793766.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74793772,74793772.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74793778,74793778.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,5,6,0,0.8873015873015873,0.0,1.0
+74793779,74793779.json,Villagers,3.0,8,Reason: All werewolves exiled.,16,5,6,0,0.844047619047619,0.0,1.0
+74793780,74793780.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8785714285714286,0.0,1.0
+74793781,74793781.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,4,6,0,0.8873015873015873,0.0,1.0
+74793784,74793784.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74793815,74793815.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74793816,74793816.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74793817,74793817.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8785714285714286,0.0,1.0
+74793821,74793821.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74793822,74793822.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74793825,74793825.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8301587301587302,0.0,1.0
+74793829,74793829.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,5,6,0,0.8873015873015873,0.0,1.0
+74793832,74793832.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74793838,74793838.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74793850,74793850.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74793855,74793855.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74793857,74793857.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8785714285714286,0.0,1.0
+74793861,74793861.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,4,6,0,0.8873015873015873,0.0,1.0
+74793863,74793863.json,Villagers,3.0,8,Reason: All werewolves exiled.,16,5,6,0,0.8202380952380951,0.0,1.0
+74793878,74793878.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",11,6,5,1,0.8714285714285713,0.2,1.0
+74793884,74793884.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,5,6,0,0.915079365079365,0.0,1.0
+74793887,74793887.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",13,6,5,0,0.9047619047619048,0.0,1.0
+74793896,74793896.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8785714285714286,0.0,1.0
+74793908,74793908.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8785714285714286,0.0,1.0
+74793943,74793943.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74793944,74793944.json,Villagers,3.0,8,Reason: All werewolves exiled.,19,5,6,0,0.9180555555555556,0.0,1.0
+74793947,74793947.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8869047619047619,0.0,1.0
+74793949,74793949.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74793967,74793967.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8301587301587302,0.0,1.0
+74793969,74793969.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",14,6,5,0,0.9083333333333332,0.0,1.0
+74793981,74793981.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8428571428571429,0.0,1.0
+74793983,74793983.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,5,6,0,0.8674603174603175,0.0,1.0
+74793989,74793989.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74793990,74793990.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74793997,74793997.json,Villagers,3.0,8,Reason: All werewolves exiled.,16,4,6,0,0.9011904761904761,0.0,1.0
+74793998,74793998.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,5,6,0,0.8873015873015873,0.0,1.0
+74794003,74794003.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74794004,74794004.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74794005,74794005.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,5,6,0,0.8819444444444443,0.0,1.0
+74794006,74794006.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,4,6,0,0.8634920634920635,0.0,1.0
+74794024,74794024.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74794027,74794027.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74794029,74794029.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.9067460317460317,0.0,1.0
+74794033,74794033.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,4,6,0,0.8873015873015873,0.0,1.0
+74794036,74794036.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8428571428571429,0.0,1.0
+74794040,74794040.json,Villagers,2.0,8,Reason: All werewolves exiled.,15,3,4,0,0.8705357142857143,0.0,1.0
+74794044,74794044.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74794049,74794049.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",18,5,8,0,0.9008928571428572,0.0,1.0
+74794051,74794051.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74794053,74794053.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8785714285714286,0.0,1.0
+74794059,74794059.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74794060,74794060.json,Villagers,2.0,8,Reason: All werewolves exiled.,15,3,4,0,0.9330357142857143,0.0,1.0
+74794061,74794061.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8785714285714286,0.0,1.0
+74794064,74794064.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.8229166666666666,0.0,1.0
+74794067,74794067.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.8591269841269842,0.0,1.0
+74794071,74794071.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74794105,74794105.json,Villagers,3.0,8,Reason: All werewolves exiled.,19,5,6,0,0.9180555555555556,0.0,1.0
+74794106,74794106.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8785714285714286,0.0,1.0
+74794114,74794114.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74794116,74794116.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74794119,74794119.json,Villagers,3.0,8,Reason: All werewolves exiled.,21,5,6,1,0.8234126984126985,0.16666666666666666,1.0
+74794121,74794121.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.9067460317460317,0.0,1.0
+74794122,74794122.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.9067460317460317,0.0,1.0
+74794125,74794125.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8301587301587302,0.0,1.0
+74794129,74794129.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74794137,74794137.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,4,6,0,0.8539682539682539,0.0,1.0
+74794139,74794139.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74794141,74794141.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8785714285714286,0.0,1.0
+74794146,74794146.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8785714285714286,0.0,1.0
+74794149,74794149.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74794154,74794154.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74794155,74794155.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.9067460317460317,0.0,1.0
+74794156,74794156.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,4,6,0,0.8591269841269842,0.0,1.0
+74794163,74794163.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,5,6,0,0.8680555555555555,0.0,1.0
+74794165,74794165.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",17,6,7,0,0.9200680272108844,0.0,1.0
+74794166,74794166.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8301587301587302,0.0,1.0
+74794201,74794201.json,Villagers,3.0,8,Reason: All werewolves exiled.,16,5,6,0,0.8678571428571429,0.0,1.0
+74794210,74794210.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8642857142857143,0.0,1.0
+74794222,74794222.json,Villagers,3.0,8,Reason: All werewolves exiled.,21,5,6,0,0.9275793650793651,0.0,1.0
+74794238,74794238.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,4,6,0,0.915079365079365,0.0,1.0
+74794239,74794239.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74794242,74794242.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,5,6,0,0.8873015873015873,0.0,1.0
+74794247,74794247.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,5,6,0,0.8396825396825397,0.0,1.0
+74794248,74794248.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,5,6,0,0.8873015873015873,0.0,1.0
+74794253,74794253.json,Villagers,3.0,8,Reason: All werewolves exiled.,19,5,6,0,0.9180555555555556,0.0,1.0
+74794255,74794255.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,4,6,0,0.8873015873015873,0.0,1.0
+74794257,74794257.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74794259,74794259.json,Villagers,3.0,8,Reason: All werewolves exiled.,19,5,6,0,0.9180555555555556,0.0,1.0
+74794265,74794265.json,Villagers,3.0,8,Reason: All werewolves exiled.,20,4,6,0,0.8678571428571429,0.0,1.0
+74794268,74794268.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74794272,74794272.json,Villagers,2.0,8,Reason: All werewolves exiled.,15,3,4,0,0.9330357142857143,0.0,1.0
+74794311,74794311.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.8313492063492064,0.0,1.0
+74794313,74794313.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74794321,74794321.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",14,6,5,0,0.9416666666666667,0.0,1.0
+74794340,74794340.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74794341,74794341.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8785714285714286,0.0,1.0
+74794343,74794343.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74794351,74794351.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",14,6,5,0,0.9166666666666666,0.0,1.0
+74794352,74794352.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",14,6,5,0,0.9166666666666666,0.0,1.0
+74794363,74794363.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74794370,74794370.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74794372,74794372.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74794375,74794375.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74794377,74794377.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8785714285714286,0.0,1.0
+74794411,74794411.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",13,6,5,0,0.9047619047619048,0.0,1.0
+74794417,74794417.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.9067460317460317,0.0,1.0
+74794423,74794423.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74794425,74794425.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74794432,74794432.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",17,6,7,0,0.8996598639455782,0.0,1.0
+74794450,74794450.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",17,5,7,0,0.8792517006802721,0.0,1.0
+74794452,74794452.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8869047619047619,0.0,1.0
+74794462,74794462.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74794470,74794470.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74794503,74794503.json,Villagers,2.0,8,Reason: All werewolves exiled.,11,3,4,0,0.9017857142857143,0.0,1.0
+74794504,74794504.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",13,6,5,0,0.9380952380952381,0.0,1.0
+74794507,74794507.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8301587301587302,0.0,1.0
+74794514,74794514.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74794515,74794515.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74794528,74794528.json,Villagers,2.0,8,Reason: All werewolves exiled.,15,3,4,0,0.9330357142857143,0.0,1.0
+74794536,74794536.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74794540,74794540.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8869047619047619,0.0,1.0
+74794547,74794547.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74794550,74794550.json,Villagers,2.0,8,Reason: All werewolves exiled.,15,3,4,0,0.9330357142857143,0.0,1.0
+74794554,74794554.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74794555,74794555.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,4,6,0,0.8873015873015873,0.0,1.0
+74794561,74794561.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8869047619047619,0.0,1.0
+74794562,74794562.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,5,6,0,0.915079365079365,0.0,1.0
+74794565,74794565.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74794575,74794575.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8869047619047619,0.0,1.0
+74794576,74794576.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,4,6,0,0.8634920634920635,0.0,1.0
+74794579,74794579.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74794609,74794609.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74794610,74794610.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,4,6,0,0.8873015873015873,0.0,1.0
+74794619,74794619.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.878968253968254,0.0,1.0
+74794624,74794624.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74794635,74794635.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",16,6,7,0,0.8673469387755102,0.0,1.0
+74794636,74794636.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,4,6,0,0.8873015873015873,0.0,1.0
+74794640,74794640.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",13,6,5,0,0.9380952380952381,0.0,1.0
+74794653,74794653.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74794656,74794656.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8511904761904762,0.0,1.0
+74794665,74794665.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74794668,74794668.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74794706,74794706.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74794710,74794710.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,4,6,0,0.8873015873015873,0.0,1.0
+74794717,74794717.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.9067460317460317,0.0,1.0
+74794726,74794726.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74794731,74794731.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,4,6,0,0.8873015873015873,0.0,1.0
+74794738,74794738.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,4,6,0,0.8873015873015873,0.0,1.0
+74794744,74794744.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8869047619047619,0.0,1.0
+74794756,74794756.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74794757,74794757.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,5,6,0,0.9097222222222222,0.0,1.0
+74794762,74794762.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",14,6,5,0,0.9166666666666666,0.0,1.0
+74794764,74794764.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",17,6,7,0,0.9200680272108844,0.0,1.0
+74794765,74794765.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74794770,74794770.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74794771,74794771.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74794772,74794772.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",16,5,7,0,0.9438775510204083,0.0,1.0
+74794776,74794776.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",21,7,8,1,0.8529761904761904,0.125,1.0
+74794777,74794777.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8888888888888888,0.0,1.0
+74794822,74794822.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74794828,74794828.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8301587301587302,0.0,1.0
+74794837,74794837.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74794840,74794840.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,4,6,0,0.8539682539682539,0.0,1.0
+74794847,74794847.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8869047619047619,0.0,1.0
+74794859,74794859.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74794860,74794860.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74794861,74794861.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.8591269841269842,0.0,1.0
+74794862,74794862.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,4,6,0,0.8873015873015873,0.0,1.0
+74794869,74794869.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74794901,74794901.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74794907,74794907.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",18,5,7,0,0.9226190476190477,0.0,1.0
+74794928,74794928.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74794929,74794929.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74794935,74794935.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8785714285714286,0.0,1.0
+74794936,74794936.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74794947,74794947.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74794950,74794950.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",14,6,5,0,0.9083333333333332,0.0,1.0
+74794951,74794951.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74794952,74794952.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74794959,74794959.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,4,6,0,0.9067460317460317,0.0,1.0
+74794975,74794975.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,4,6,0,0.8539682539682539,0.0,1.0
+74794977,74794977.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",13,6,5,0,0.9380952380952381,0.0,1.0
+74794979,74794979.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",13,6,5,0,0.9380952380952381,0.0,1.0
+74795012,74795012.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8785714285714286,0.0,1.0
+74795033,74795033.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74795037,74795037.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8869047619047619,0.0,1.0
+74795049,74795049.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74795066,74795066.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74795068,74795068.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8785714285714286,0.0,1.0
+74795079,74795079.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",13,6,5,0,0.9095238095238095,0.0,1.0
+74795080,74795080.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8396825396825397,0.0,1.0
+74795084,74795084.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74795122,74795122.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74795124,74795124.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.7928571428571428,0.0,1.0
+74795133,74795133.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74795134,74795134.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74795137,74795137.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",18,6,6,1,0.8261904761904763,0.16666666666666666,1.0
+74795148,74795148.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74795149,74795149.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74795151,74795151.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8063492063492063,0.0,1.0
+74795155,74795155.json,Villagers,3.0,8,Reason: All werewolves exiled.,16,5,6,0,0.8678571428571429,0.0,1.0
+74795156,74795156.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74795165,74795165.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8785714285714286,0.0,1.0
+74795169,74795169.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74795173,74795173.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.9067460317460317,0.0,1.0
+74795175,74795175.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74795177,74795177.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74795181,74795181.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.8645833333333334,0.0,1.0
+74795217,74795217.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74795223,74795223.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74795230,74795230.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,5,6,0,0.8819444444444443,0.0,1.0
+74795244,74795244.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",13,6,5,0,0.9380952380952381,0.0,1.0
+74795254,74795254.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74795260,74795260.json,Villagers,3.0,8,Reason: All werewolves exiled.,20,5,6,0,0.9220238095238096,0.0,1.0
+74795268,74795268.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",14,6,5,0,0.9416666666666667,0.0,1.0
+74795269,74795269.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,5,6,0,0.8873015873015873,0.0,1.0
+74795271,74795271.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",11,4,4,0,0.9017857142857143,0.0,1.0
+74795272,74795272.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8428571428571429,0.0,1.0
+74795312,74795312.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8809523809523809,0.0,1.0
+74795317,74795317.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,1,0.8234126984126985,0.16666666666666666,0.8333333333333334
+74795327,74795327.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.9067460317460317,0.0,1.0
+74795337,74795337.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74795342,74795342.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8428571428571429,0.0,1.0
+74795350,74795350.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74795353,74795353.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74795358,74795358.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74795359,74795359.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8063492063492063,0.0,1.0
+74795360,74795360.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74795364,74795364.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74795366,74795366.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.9067460317460317,0.0,1.0
+74795370,74795370.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,4,6,0,0.8873015873015873,0.0,1.0
+74795408,74795408.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,4,6,0,0.8829365079365079,0.0,1.0
+74795412,74795412.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,4,6,0,0.8873015873015873,0.0,1.0
+74795421,74795421.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74795430,74795430.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74795438,74795438.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74795440,74795440.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,4,6,0,0.8873015873015873,0.0,1.0
+74795441,74795441.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,4,6,0,0.9097222222222222,0.0,1.0
+74795446,74795446.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",13,6,5,0,0.8476190476190476,0.0,1.0
+74795452,74795452.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74795456,74795456.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,4,6,0,0.8313492063492064,0.0,1.0
+74795458,74795458.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74795465,74795465.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",14,6,5,0,0.9416666666666667,0.0,1.0
+74795467,74795467.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74795473,74795473.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74795480,74795480.json,Villagers,4.0,8,Reason: All werewolves exiled.,23,7,8,0,0.8748511904761904,0.0,1.0
+74795520,74795520.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8301587301587302,0.0,1.0
+74795521,74795521.json,Villagers,3.0,8,Reason: All werewolves exiled.,16,5,6,0,0.8678571428571429,0.0,1.0
+74795529,74795529.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.878968253968254,0.0,1.0
+74795530,74795530.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8869047619047619,0.0,1.0
+74795535,74795535.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74795538,74795538.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8785714285714286,0.0,1.0
+74795541,74795541.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74795546,74795546.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,4,6,0,0.8873015873015873,0.0,1.0
+74795552,74795552.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74795558,74795558.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74795562,74795562.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",14,5,6,0,0.8833333333333333,0.0,1.0
+74795563,74795563.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",13,6,5,0,0.9380952380952381,0.0,1.0
+74795565,74795565.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74795567,74795567.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74795572,74795572.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74795580,74795580.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74795586,74795586.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74795587,74795587.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8642857142857143,0.0,1.0
+74795589,74795589.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74795592,74795592.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74795604,74795604.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74795634,74795634.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",14,6,7,1,0.8591836734693877,0.14285714285714285,1.0
+74795636,74795636.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74795640,74795640.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,5,6,1,0.8436507936507937,0.16666666666666666,1.0
+74795641,74795641.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,6,7,0,0.9119047619047619,0.0,1.0
+74795643,74795643.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74795644,74795644.json,Villagers,3.0,8,Reason: All werewolves exiled.,16,5,6,0,0.9011904761904761,0.0,1.0
+74795645,74795645.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.9067460317460317,0.0,1.0
+74795647,74795647.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8869047619047619,0.0,1.0
+74795648,74795648.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74795650,74795650.json,Villagers,3.0,8,Reason: All werewolves exiled.,16,5,6,0,0.8678571428571429,0.0,1.0
+74795659,74795659.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8869047619047619,0.0,1.0
+74795661,74795661.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",13,6,5,0,0.9380952380952381,0.0,1.0
+74795664,74795664.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,4,6,0,0.8301587301587302,0.0,1.0
+74795667,74795667.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74795669,74795669.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8285714285714285,0.0,1.0
+74795676,74795676.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74795681,74795681.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74795698,74795698.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74795734,74795734.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",18,5,7,0,0.9226190476190477,0.0,1.0
+74795737,74795737.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74795738,74795738.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74795742,74795742.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74795749,74795749.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,4,6,0,0.8873015873015873,0.0,1.0
+74795753,74795753.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.9067460317460317,0.0,1.0
+74795758,74795758.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74795759,74795759.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74795766,74795766.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74795771,74795771.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74795780,74795780.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8785714285714286,0.0,1.0
+74795781,74795781.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74795785,74795785.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",13,5,5,0,0.9047619047619048,0.0,1.0
+74795786,74795786.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,4,6,0,0.8873015873015873,0.0,1.0
+74795787,74795787.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74795792,74795792.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",14,6,5,0,0.8916666666666666,0.0,1.0
+74795793,74795793.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74795795,74795795.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8285714285714285,0.0,1.0
+74795798,74795798.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",14,6,5,0,0.9166666666666666,0.0,1.0
+74795802,74795802.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,4,6,0,0.8873015873015873,0.0,1.0
+74795861,74795861.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74795868,74795868.json,Villagers,3.0,8,Reason: All werewolves exiled.,21,5,6,1,0.8650793650793651,0.16666666666666666,1.0
+74795869,74795869.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,4,6,0,0.8873015873015873,0.0,1.0
+74795872,74795872.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8428571428571429,0.0,1.0
+74795889,74795889.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8301587301587302,0.0,1.0
+74795894,74795894.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74795934,74795934.json,Villagers,2.0,8,Reason: All werewolves exiled.,15,3,4,0,0.9017857142857143,0.0,1.0
+74795938,74795938.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.878968253968254,0.0,1.0
+74795940,74795940.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74795944,74795944.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74795946,74795946.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74795950,74795950.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74795955,74795955.json,Villagers,3.0,8,Reason: All werewolves exiled.,20,5,6,0,0.8982142857142857,0.0,1.0
+74795960,74795960.json,Villagers,3.0,8,Reason: All werewolves exiled.,16,5,6,0,0.9011904761904761,0.0,1.0
+74795962,74795962.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.8958333333333334,0.0,1.0
+74795976,74795976.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8063492063492063,0.0,1.0
+74795980,74795980.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8428571428571429,0.0,1.0
+74795984,74795984.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.7825396825396825,0.0,1.0
+74796022,74796022.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74796023,74796023.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,6,5,0,0.8666666666666666,0.0,1.0
+74796026,74796026.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74796032,74796032.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74796036,74796036.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74796051,74796051.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8396825396825397,0.0,1.0
+74796057,74796057.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8428571428571429,0.0,1.0
+74796060,74796060.json,Villagers,2.0,8,Reason: All werewolves exiled.,11,3,4,0,0.9017857142857143,0.0,1.0
+74796070,74796070.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74796072,74796072.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74796078,74796078.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74796081,74796081.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74796082,74796082.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8634920634920635,0.0,1.0
+74796088,74796088.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74796089,74796089.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8869047619047619,0.0,1.0
+74796091,74796091.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74796098,74796098.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8301587301587302,0.0,1.0
+74796099,74796099.json,Villagers,3.0,8,Reason: All werewolves exiled.,16,5,6,0,0.9011904761904761,0.0,1.0
+74796103,74796103.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74796109,74796109.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,4,6,0,0.9097222222222222,0.0,1.0
+74796141,74796141.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74796142,74796142.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8785714285714286,0.0,1.0
+74796146,74796146.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74796148,74796148.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,4,6,0,0.8873015873015873,0.0,1.0
+74796152,74796152.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8869047619047619,0.0,1.0
+74796163,74796163.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,5,6,1,0.8198412698412699,0.16666666666666666,1.0
+74796165,74796165.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74796169,74796169.json,Villagers,2.0,8,Reason: All werewolves exiled.,15,3,4,0,0.9330357142857143,0.0,1.0
+74796170,74796170.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74796179,74796179.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74796184,74796184.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74796185,74796185.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74796186,74796186.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,4,6,0,0.8634920634920635,0.0,1.0
+74796189,74796189.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74796196,74796196.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74796199,74796199.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74796241,74796241.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74796242,74796242.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,4,6,0,0.8396825396825397,0.0,1.0
+74796245,74796245.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8869047619047619,0.0,1.0
+74796250,74796250.json,Villagers,4.0,8,Reason: All werewolves exiled.,22,6,8,0,0.896875,0.0,1.0
+74796255,74796255.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",14,6,5,0,0.8833333333333332,0.0,1.0
+74796257,74796257.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74796262,74796262.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",17,5,7,0,0.8996598639455782,0.0,1.0
+74796270,74796270.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8063492063492063,0.0,1.0
+74796279,74796279.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",13,6,5,0,0.9380952380952381,0.0,1.0
+74796298,74796298.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74796301,74796301.json,Villagers,3.0,8,Reason: All werewolves exiled.,20,5,6,0,0.8982142857142857,0.0,1.0
+74796335,74796335.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,4,6,0,0.8301587301587302,0.0,1.0
+74796337,74796337.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8785714285714286,0.0,1.0
+74796339,74796339.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.8313492063492064,0.0,1.0
+74796341,74796341.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74796353,74796353.json,,,0,,8,2,2,0,0.9375,0.0,1.0
+74796367,74796367.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",18,5,7,0,0.9226190476190477,0.0,1.0
+74796373,74796373.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8785714285714286,0.0,1.0
+74796377,74796377.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74796387,74796387.json,Villagers,4.0,8,Reason: All werewolves exiled.,23,7,8,0,0.8686011904761904,0.0,1.0
+74796401,74796401.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74796410,74796410.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8785714285714286,0.0,1.0
+74796446,74796446.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74796447,74796447.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74796448,74796448.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74796451,74796451.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74796465,74796465.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74796468,74796468.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8785714285714286,0.0,1.0
+74796473,74796473.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,4,6,0,0.8634920634920635,0.0,1.0
+74796475,74796475.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74796476,74796476.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74796477,74796477.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74796484,74796484.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,4,6,0,0.8873015873015873,0.0,1.0
+74796487,74796487.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8428571428571429,0.0,1.0
+74796490,74796490.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74796491,74796491.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8869047619047619,0.0,1.0
+74796495,74796495.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74796497,74796497.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8869047619047619,0.0,1.0
+74796504,74796504.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8869047619047619,0.0,1.0
+74796506,74796506.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74796510,74796510.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74796516,74796516.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74796554,74796554.json,Villagers,3.0,8,Reason: All werewolves exiled.,16,5,6,0,0.8535714285714286,0.0,1.0
+74796562,74796562.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74796573,74796573.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.9067460317460317,0.0,1.0
+74796581,74796581.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8785714285714286,0.0,1.0
+74796583,74796583.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74796588,74796588.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",14,6,5,0,0.8583333333333332,0.0,1.0
+74796591,74796591.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74796594,74796594.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",17,5,7,0,0.9200680272108844,0.0,1.0
+74796595,74796595.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74796606,74796606.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74796615,74796615.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74796616,74796616.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",13,6,5,0,0.9380952380952381,0.0,1.0
+74796618,74796618.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74796627,74796627.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8869047619047619,0.0,1.0
+74796663,74796663.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8785714285714286,0.0,1.0
+74796665,74796665.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74796666,74796666.json,Villagers,3.0,8,Reason: All werewolves exiled.,19,4,6,0,0.8972222222222223,0.0,1.0
+74796668,74796668.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74796672,74796672.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",14,6,5,0,0.9416666666666667,0.0,1.0
+74796681,74796681.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,4,6,0,0.8873015873015873,0.0,1.0
+74796682,74796682.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.8958333333333334,0.0,1.0
+74796685,74796685.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,5,6,0,0.8402777777777777,0.0,1.0
+74796687,74796687.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8428571428571429,0.0,1.0
+74796691,74796691.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",18,6,6,1,0.8261904761904763,0.16666666666666666,1.0
+74796693,74796693.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74796697,74796697.json,Villagers,3.0,8,Reason: All werewolves exiled.,19,5,6,0,0.8972222222222223,0.0,1.0
+74796703,74796703.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8869047619047619,0.0,1.0
+74796708,74796708.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74796709,74796709.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74796711,74796711.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74796712,74796712.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.878968253968254,0.0,1.0
+74796714,74796714.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74796715,74796715.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8785714285714286,0.0,1.0
+74796720,74796720.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74796730,74796730.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",14,6,5,0,0.9416666666666667,0.0,1.0
+74796765,74796765.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74796771,74796771.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8396825396825397,0.0,1.0
+74796777,74796777.json,Villagers,3.0,8,Reason: All werewolves exiled.,16,5,6,0,0.8202380952380951,0.0,1.0
+74796787,74796787.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74796791,74796791.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74796817,74796817.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,4,6,0,0.8873015873015873,0.0,1.0
+74796821,74796821.json,Villagers,3.0,8,Reason: All werewolves exiled.,19,5,6,0,0.9180555555555556,0.0,1.0
+74796825,74796825.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",13,6,5,0,0.9047619047619048,0.0,1.0
+74796828,74796828.json,Villagers,3.0,8,Reason: All werewolves exiled.,20,5,6,0,0.9220238095238096,0.0,1.0
+74796834,74796834.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8869047619047619,0.0,1.0
+74796840,74796840.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74796875,74796875.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8869047619047619,0.0,1.0
+74796878,74796878.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",18,6,7,0,0.886904761904762,0.0,1.0
+74796885,74796885.json,Villagers,2.0,8,Reason: All werewolves exiled.,15,3,4,0,0.9330357142857143,0.0,1.0
+74796887,74796887.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,4,6,0,0.8873015873015873,0.0,1.0
+74796894,74796894.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8785714285714286,0.0,1.0
+74796911,74796911.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,4,6,0,0.9067460317460317,0.0,1.0
+74796924,74796924.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74796925,74796925.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74796961,74796961.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74796965,74796965.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.7928571428571428,0.0,1.0
+74796967,74796967.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",22,7,8,1,0.8261904761904761,0.125,1.0
+74796970,74796970.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74796987,74796987.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",14,6,5,0,0.9083333333333332,0.0,1.0
+74796990,74796990.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.8551587301587302,0.0,1.0
+74797003,74797003.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74797004,74797004.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74797014,74797014.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,4,6,0,0.8873015873015873,0.0,1.0
+74797016,74797016.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",16,5,7,0,0.9153061224489795,0.0,1.0
+74797021,74797021.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74797022,74797022.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8285714285714285,0.0,1.0
+74797039,74797039.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74797074,74797074.json,Villagers,3.0,8,Reason: All werewolves exiled.,16,5,6,0,0.9011904761904761,0.0,1.0
+74797075,74797075.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74797080,74797080.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,4,6,0,0.9067460317460317,0.0,1.0
+74797086,74797086.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74797089,74797089.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,4,6,0,0.8634920634920635,0.0,1.0
+74797090,74797090.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8063492063492063,0.0,1.0
+74797091,74797091.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74797100,74797100.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74797101,74797101.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,4,6,0,0.8873015873015873,0.0,1.0
+74797117,74797117.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,5,6,0,0.9097222222222222,0.0,1.0
+74797121,74797121.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74797123,74797123.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74797124,74797124.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,4,6,0,0.8873015873015873,0.0,1.0
+74797137,74797137.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",17,5,7,0,0.8996598639455782,0.0,1.0
+74797142,74797142.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,4,6,0,0.8912698412698413,0.0,1.0
+74797181,74797181.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74797190,74797190.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8511904761904762,0.0,1.0
+74797196,74797196.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74797200,74797200.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74797203,74797203.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74797208,74797208.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74797209,74797209.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.9067460317460317,0.0,1.0
+74797210,74797210.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74797214,74797214.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8785714285714286,0.0,1.0
+74797217,74797217.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.8829365079365079,0.0,1.0
+74797220,74797220.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",13,6,5,1,0.819047619047619,0.2,1.0
+74797225,74797225.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74797234,74797234.json,Villagers,3.0,8,Reason: All werewolves exiled.,16,4,6,0,0.8535714285714286,0.0,1.0
+74797268,74797268.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74797277,74797277.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74797279,74797279.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74797281,74797281.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",13,6,5,0,0.8761904761904763,0.0,1.0
+74797288,74797288.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.9067460317460317,0.0,1.0
+74797299,74797299.json,Villagers,2.0,8,Reason: All werewolves exiled.,15,3,4,0,0.9330357142857143,0.0,1.0
+74797300,74797300.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8785714285714286,0.0,1.0
+74797304,74797304.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.7571428571428571,0.0,1.0
+74797305,74797305.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74797310,74797310.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8809523809523809,0.0,1.0
+74797312,74797312.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74797322,74797322.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",13,6,5,0,0.9380952380952381,0.0,1.0
+74797323,74797323.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74797325,74797325.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8869047619047619,0.0,1.0
+74797331,74797331.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.9067460317460317,0.0,1.0
+74797337,74797337.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",18,5,7,0,0.9226190476190477,0.0,1.0
+74797373,74797373.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74797382,74797382.json,Villagers,4.0,8,Reason: All werewolves exiled.,24,5,8,0,0.8852678571428572,0.0,1.0
+74797383,74797383.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.8958333333333334,0.0,1.0
+74797387,74797387.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,5,6,0,0.8396825396825397,0.0,1.0
+74797399,74797399.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74797405,74797405.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74797412,74797412.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.7928571428571428,0.0,1.0
+74797415,74797415.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74797416,74797416.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8785714285714286,0.0,1.0
+74797417,74797417.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,4,6,0,0.8873015873015873,0.0,1.0
+74797418,74797418.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",14,6,5,0,0.9166666666666666,0.0,1.0
+74797423,74797423.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,5,6,0,0.8396825396825397,0.0,1.0
+74797435,74797435.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.8958333333333334,0.0,1.0
+74797480,74797480.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8785714285714286,0.0,1.0
+74797498,74797498.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.9067460317460317,0.0,1.0
+74797510,74797510.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.9067460317460317,0.0,1.0
+74797516,74797516.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74797518,74797518.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74797524,74797524.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.8958333333333334,0.0,1.0
+74797525,74797525.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74797528,74797528.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.8958333333333334,0.0,1.0
+74797539,74797539.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",14,6,5,0,0.9166666666666666,0.0,1.0
+74797542,74797542.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74797544,74797544.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74797549,74797549.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74797551,74797551.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74797554,74797554.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",17,5,7,0,0.9464285714285714,0.0,1.0
+74797560,74797560.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74797564,74797564.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,5,6,0,0.8634920634920635,0.0,1.0
+74797568,74797568.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74797602,74797602.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74797625,74797625.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74797643,74797643.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8785714285714286,0.0,1.0
+74797648,74797648.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8785714285714286,0.0,1.0
+74797656,74797656.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74797657,74797657.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8809523809523809,0.0,1.0
+74797705,74797705.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74797708,74797708.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74797709,74797709.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74797713,74797713.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74797714,74797714.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74797728,74797728.json,Villagers,3.0,8,Reason: All werewolves exiled.,19,5,6,0,0.9180555555555556,0.0,1.0
+74797734,74797734.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,5,6,0,0.915079365079365,0.0,1.0
+74797738,74797738.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74797744,74797744.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74797748,74797748.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8869047619047619,0.0,1.0
+74797749,74797749.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,4,6,0,0.8873015873015873,0.0,1.0
+74797762,74797762.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8634920634920635,0.0,1.0
+74797765,74797765.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74797767,74797767.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",22,5,8,0,0.896875,0.0,1.0
+74797768,74797768.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74797769,74797769.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,4,6,0,0.8873015873015873,0.0,1.0
+74797775,74797775.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74797776,74797776.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74797807,74797807.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74797808,74797808.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74797811,74797811.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,5,6,0,0.8873015873015873,0.0,1.0
+74797822,74797822.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,4,6,0,0.8634920634920635,0.0,1.0
+74797825,74797825.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74797831,74797831.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74797847,74797847.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74797848,74797848.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74797850,74797850.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",18,6,6,1,0.8023809523809523,0.16666666666666666,1.0
+74797851,74797851.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",11,4,4,0,0.9017857142857143,0.0,1.0
+74797866,74797866.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8511904761904762,0.0,1.0
+74797867,74797867.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74797899,74797899.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74797901,74797901.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8869047619047619,0.0,1.0
+74797905,74797905.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,4,6,0,0.8873015873015873,0.0,1.0
+74797906,74797906.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74797908,74797908.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8869047619047619,0.0,1.0
+74797912,74797912.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74797914,74797914.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8301587301587302,0.0,1.0
+74797917,74797917.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74797920,74797920.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,5,6,0,0.8819444444444443,0.0,1.0
+74797926,74797926.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",13,6,5,0,0.8761904761904763,0.0,1.0
+74797931,74797931.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74797932,74797932.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",18,8,7,1,0.886904761904762,0.14285714285714285,1.0
+74797937,74797937.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74797941,74797941.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,4,6,0,0.915079365079365,0.0,1.0
+74797954,74797954.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74797956,74797956.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74797957,74797957.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74797958,74797958.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.8958333333333334,0.0,1.0
+74797997,74797997.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74798010,74798010.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,4,6,0,0.8634920634920635,0.0,1.0
+74798011,74798011.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,4,6,0,0.9097222222222222,0.0,1.0
+74798012,74798012.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,4,6,0,0.8873015873015873,0.0,1.0
+74798014,74798014.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",17,6,7,0,0.8792517006802721,0.0,1.0
+74798016,74798016.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8869047619047619,0.0,1.0
+74798028,74798028.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74798031,74798031.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74798033,74798033.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74798036,74798036.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,4,6,0,0.8539682539682539,0.0,1.0
+74798042,74798042.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74798043,74798043.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,4,6,0,0.8539682539682539,0.0,1.0
+74798052,74798052.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74798053,74798053.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8785714285714286,0.0,1.0
+74798089,74798089.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",17,6,7,0,0.9200680272108844,0.0,1.0
+74798092,74798092.json,Villagers,3.0,8,Reason: All werewolves exiled.,16,5,6,0,0.8678571428571429,0.0,1.0
+74798094,74798094.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74798096,74798096.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74798098,74798098.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74798101,74798101.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74798104,74798104.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8785714285714286,0.0,1.0
+74798110,74798110.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8785714285714286,0.0,1.0
+74798117,74798117.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74798119,74798119.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74798124,74798124.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",13,6,5,0,0.8523809523809524,0.0,1.0
+74798125,74798125.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74798126,74798126.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74798127,74798127.json,Villagers,3.0,8,Reason: All werewolves exiled.,14,5,6,0,0.8222222222222223,0.0,1.0
+74798129,74798129.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,4,6,0,0.8873015873015873,0.0,1.0
+74798161,74798161.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74798162,74798162.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.8829365079365079,0.0,1.0
+74798164,74798164.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.7928571428571428,0.0,1.0
+74798200,74798200.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.8829365079365079,0.0,1.0
+74798201,74798201.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,4,6,0,0.9345238095238094,0.0,1.0
+74798208,74798208.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74798212,74798212.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8063492063492063,0.0,1.0
+74798215,74798215.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74798220,74798220.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74798223,74798223.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74798226,74798226.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74798230,74798230.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8301587301587302,0.0,1.0
+74798239,74798239.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74798247,74798247.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74798257,74798257.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.8829365079365079,0.0,1.0
+74798265,74798265.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74798266,74798266.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74798272,74798272.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74798305,74798305.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,4,6,0,0.9067460317460317,0.0,1.0
+74798319,74798319.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74798325,74798325.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",13,6,5,0,0.9380952380952381,0.0,1.0
+74798333,74798333.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",11,4,4,0,0.8303571428571428,0.0,1.0
+74798337,74798337.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74798354,74798354.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.7928571428571428,0.0,1.0
+74798356,74798356.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",13,6,5,0,0.8761904761904763,0.0,1.0
+74798362,74798362.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8428571428571429,0.0,1.0
+74798365,74798365.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,4,6,0,0.8591269841269842,0.0,1.0
+74798374,74798374.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,4,6,0,0.8873015873015873,0.0,1.0
+74798409,74798409.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8785714285714286,0.0,1.0
+74798414,74798414.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",13,6,5,0,0.9380952380952381,0.0,1.0
+74798415,74798415.json,Villagers,2.0,8,Reason: All werewolves exiled.,15,3,4,0,0.9330357142857143,0.0,1.0
+74798417,74798417.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8785714285714286,0.0,1.0
+74798419,74798419.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8301587301587302,0.0,1.0
+74798426,74798426.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74798428,74798428.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74798432,74798432.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74798434,74798434.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8785714285714286,0.0,1.0
+74798436,74798436.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74798444,74798444.json,Villagers,2.0,8,Reason: All werewolves exiled.,15,3,4,0,0.9330357142857143,0.0,1.0
+74798446,74798446.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74798450,74798450.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74798452,74798452.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,5,6,0,0.8873015873015873,0.0,1.0
+74798457,74798457.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,4,6,0,0.8063492063492063,0.0,1.0
+74798459,74798459.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8301587301587302,0.0,1.0
+74798460,74798460.json,Villagers,2.0,8,Reason: All werewolves exiled.,15,3,4,0,0.9330357142857143,0.0,1.0
+74798462,74798462.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8785714285714286,0.0,1.0
+74798508,74798508.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74798518,74798518.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74798537,74798537.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,4,6,0,0.8873015873015873,0.0,1.0
+74798542,74798542.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74798546,74798546.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74798549,74798549.json,Villagers,3.0,8,Reason: All werewolves exiled.,16,5,6,0,0.9011904761904761,0.0,1.0
+74798551,74798551.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",18,5,7,0,0.9047619047619049,0.0,1.0
+74798552,74798552.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74798554,74798554.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.9067460317460317,0.0,1.0
+74798556,74798556.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74798560,74798560.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,5,6,0,0.8634920634920635,0.0,1.0
+74798569,74798569.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8634920634920635,0.0,1.0
+74798578,74798578.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8301587301587302,0.0,1.0
+74798579,74798579.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",13,6,5,0,0.9380952380952381,0.0,1.0
+74798581,74798581.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,4,6,0,0.8873015873015873,0.0,1.0
+74798591,74798591.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74798607,74798607.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,5,6,0,0.8912698412698413,0.0,1.0
+74798617,74798617.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",14,6,5,0,0.9416666666666667,0.0,1.0
+74798619,74798619.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",19,8,7,2,0.7891156462585034,0.2857142857142857,0.875
+74798622,74798622.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74798626,74798626.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,4,6,0,0.9097222222222222,0.0,1.0
+74798630,74798630.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,5,6,0,0.8396825396825397,0.0,1.0
+74798631,74798631.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",18,6,7,0,0.9226190476190477,0.0,1.0
+74798639,74798639.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74798643,74798643.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",22,7,8,1,0.8552083333333333,0.125,1.0
+74798648,74798648.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74798685,74798685.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74798713,74798713.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",14,6,5,0,0.9083333333333332,0.0,1.0
+74798715,74798715.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74798721,74798721.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74798722,74798722.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74798724,74798724.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74798729,74798729.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",18,5,7,0,0.9226190476190477,0.0,1.0
+74798731,74798731.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,4,6,0,0.9097222222222222,0.0,1.0
+74798736,74798736.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74798737,74798737.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74798745,74798745.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74798779,74798779.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74798781,74798781.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,5,6,0,0.8634920634920635,0.0,1.0
+74798787,74798787.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74798789,74798789.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74798793,74798793.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,5,6,0,0.8888888888888888,0.0,1.0
+74798794,74798794.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8785714285714286,0.0,1.0
+74798796,74798796.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,5,6,0,0.861111111111111,0.0,1.0
+74798799,74798799.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74798811,74798811.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,4,6,0,0.8873015873015873,0.0,1.0
+74798817,74798817.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8785714285714286,0.0,1.0
+74798818,74798818.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74798827,74798827.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8785714285714286,0.0,1.0
+74798831,74798831.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",14,6,5,0,0.9416666666666667,0.0,1.0
+74798835,74798835.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8396825396825397,0.0,1.0
+74798837,74798837.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74798850,74798850.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8396825396825397,0.0,1.0
+74798851,74798851.json,Villagers,4.0,8,Reason: All werewolves exiled.,21,7,8,1,0.8101190476190476,0.125,1.0
+74798894,74798894.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74798895,74798895.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74798896,74798896.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.7571428571428571,0.0,1.0
+74798897,74798897.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.9067460317460317,0.0,1.0
+74798898,74798898.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8428571428571429,0.0,1.0
+74798901,74798901.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74798904,74798904.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.8333333333333334,0.0,1.0
+74798908,74798908.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74798910,74798910.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74798916,74798916.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8869047619047619,0.0,1.0
+74798931,74798931.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74798936,74798936.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8869047619047619,0.0,1.0
+74798937,74798937.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74798954,74798954.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74798994,74798994.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8785714285714286,0.0,1.0
+74798996,74798996.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8428571428571429,0.0,1.0
+74798999,74798999.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",14,6,5,0,0.9416666666666667,0.0,1.0
+74799001,74799001.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74799007,74799007.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",13,6,5,0,0.9095238095238095,0.0,1.0
+74799011,74799011.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74799012,74799012.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74799029,74799029.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",16,6,7,0,0.9149659863945578,0.0,1.0
+74799035,74799035.json,Villagers,3.0,8,Reason: All werewolves exiled.,20,5,6,0,0.9011904761904762,0.0,1.0
+74799036,74799036.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74799039,74799039.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74799046,74799046.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",14,6,5,0,0.9166666666666666,0.0,1.0
+74799078,74799078.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74799086,74799086.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74799093,74799093.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.7928571428571428,0.0,1.0
+74799094,74799094.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74799098,74799098.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74799099,74799099.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8301587301587302,0.0,1.0
+74799101,74799101.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74799102,74799102.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,4,6,0,0.8873015873015873,0.0,1.0
+74799112,74799112.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.9067460317460317,0.0,1.0
+74799124,74799124.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74799126,74799126.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74799127,74799127.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,4,6,0,0.8873015873015873,0.0,1.0
+74799128,74799128.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74799130,74799130.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,4,6,0,0.8539682539682539,0.0,1.0
+74799132,74799132.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8285714285714285,0.0,1.0
+74799133,74799133.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.9067460317460317,0.0,1.0
+74799135,74799135.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,5,6,0,0.8819444444444443,0.0,1.0
+74799177,74799177.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8785714285714286,0.0,1.0
+74799188,74799188.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",14,6,5,0,0.9083333333333332,0.0,1.0
+74799195,74799195.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74799199,74799199.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,4,6,0,0.8873015873015873,0.0,1.0
+74799208,74799208.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,4,6,0,0.8873015873015873,0.0,1.0
+74799210,74799210.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,5,6,0,0.8819444444444443,0.0,1.0
+74799218,74799218.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",16,5,7,0,0.9153061224489795,0.0,1.0
+74799220,74799220.json,Villagers,4.0,8,Reason: All werewolves exiled.,23,7,8,0,0.8842261904761904,0.0,1.0
+74799221,74799221.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,4,6,0,0.8634920634920635,0.0,1.0
+74799227,74799227.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74799234,74799234.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8511904761904762,0.0,1.0
+74799236,74799236.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74799239,74799239.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74799245,74799245.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74799279,74799279.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,4,6,0,0.8873015873015873,0.0,1.0
+74799281,74799281.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,5,6,0,0.8873015873015873,0.0,1.0
+74799284,74799284.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",11,4,4,0,0.9285714285714286,0.0,1.0
+74799288,74799288.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74799297,74799297.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74799304,74799304.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74799310,74799310.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74799318,74799318.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",14,6,5,0,0.9416666666666667,0.0,1.0
+74799323,74799323.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",14,4,6,0,0.8313492063492064,0.0,1.0
+74799325,74799325.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74799349,74799349.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",14,6,5,0,0.9083333333333332,0.0,1.0
+74799353,74799353.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",17,6,7,0,0.9200680272108844,0.0,1.0
+74799354,74799354.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,4,6,0,0.9067460317460317,0.0,1.0
+74799360,74799360.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74799361,74799361.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8785714285714286,0.0,1.0
+74799362,74799362.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74799395,74799395.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,4,6,0,0.8873015873015873,0.0,1.0
+74799400,74799400.json,Villagers,3.0,8,Reason: All werewolves exiled.,19,5,6,0,0.9180555555555556,0.0,1.0
+74799406,74799406.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,4,6,0,0.9067460317460317,0.0,1.0
+74799412,74799412.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74799415,74799415.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8063492063492063,0.0,1.0
+74799416,74799416.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74799417,74799417.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74799418,74799418.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8869047619047619,0.0,1.0
+74799422,74799422.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,5,6,0,0.8873015873015873,0.0,1.0
+74799434,74799434.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.8591269841269842,0.0,1.0
+74799435,74799435.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,4,6,0,0.8873015873015873,0.0,1.0
+74799437,74799437.json,Villagers,3.0,8,Reason: All werewolves exiled.,21,5,6,0,0.9067460317460317,0.0,1.0
+74799450,74799450.json,Villagers,3.0,8,Reason: All werewolves exiled.,19,5,6,0,0.9180555555555556,0.0,1.0
+74799462,74799462.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74799466,74799466.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74799471,74799471.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",14,6,5,0,0.8916666666666666,0.0,1.0
+74799502,74799502.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,4,6,0,0.8634920634920635,0.0,1.0
+74799511,74799511.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8869047619047619,0.0,1.0
+74799516,74799516.json,Villagers,2.0,8,Reason: All werewolves exiled.,15,3,4,0,0.9330357142857143,0.0,1.0
+74799522,74799522.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8428571428571429,0.0,1.0
+74799523,74799523.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74799527,74799527.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74799530,74799530.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8785714285714286,0.0,1.0
+74799531,74799531.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",14,6,5,0,0.9083333333333332,0.0,1.0
+74799532,74799532.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74799535,74799535.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8785714285714286,0.0,1.0
+74799538,74799538.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74799539,74799539.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74799540,74799540.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74799541,74799541.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,5,6,0,0.9097222222222222,0.0,1.0
+74799543,74799543.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",17,6,7,0,0.9200680272108844,0.0,1.0
+74799550,74799550.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74799586,74799586.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74799590,74799590.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8869047619047619,0.0,1.0
+74799596,74799596.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74799597,74799597.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,5,6,0,0.9097222222222222,0.0,1.0
+74799602,74799602.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8785714285714286,0.0,1.0
+74799611,74799611.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74799616,74799616.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,4,6,0,0.8873015873015873,0.0,1.0
+74799618,74799618.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8869047619047619,0.0,1.0
+74799620,74799620.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,5,6,0,0.9097222222222222,0.0,1.0
+74799627,74799627.json,Villagers,3.0,8,Reason: All werewolves exiled.,14,4,6,0,0.9206349206349206,0.0,1.0
+74799635,74799635.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74799636,74799636.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74799641,74799641.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74799645,74799645.json,Villagers,4.0,8,Reason: All werewolves exiled.,23,6,8,0,0.8998511904761904,0.0,1.0
+74799649,74799649.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8869047619047619,0.0,1.0
+74799650,74799650.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74799652,74799652.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",18,5,7,0,0.9226190476190477,0.0,1.0
+74799687,74799687.json,Villagers,3.0,8,Reason: All werewolves exiled.,16,5,6,0,0.9011904761904761,0.0,1.0
+74799697,74799697.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74799710,74799710.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8785714285714286,0.0,1.0
+74799721,74799721.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74799724,74799724.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8869047619047619,0.0,1.0
+74799728,74799728.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74799729,74799729.json,Villagers,3.0,8,Reason: All werewolves exiled.,21,5,6,0,0.9067460317460317,0.0,1.0
+74799733,74799733.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74799742,74799742.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74799743,74799743.json,Villagers,3.0,8,Reason: All werewolves exiled.,16,5,6,0,0.9011904761904761,0.0,1.0
+74799761,74799761.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74799775,74799775.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",17,6,7,0,0.9200680272108844,0.0,1.0
+74799777,74799777.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.7928571428571428,0.0,1.0
+74799780,74799780.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74799813,74799813.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8428571428571429,0.0,1.0
+74799820,74799820.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74799821,74799821.json,Werewolves,4.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",17,5,7,0,0.9200680272108844,0.0,1.0
+74799832,74799832.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8301587301587302,0.0,1.0
+74799836,74799836.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74799840,74799840.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74799843,74799843.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8785714285714286,0.0,1.0
+74799845,74799845.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74799854,74799854.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.8313492063492064,0.0,1.0
+74799858,74799858.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,4,6,0,0.8873015873015873,0.0,1.0
+74799864,74799864.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,5,6,0,0.8301587301587302,0.0,1.0
+74799870,74799870.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8396825396825397,0.0,1.0
+74799876,74799876.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74799897,74799897.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74799927,74799927.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,4,6,0,0.8873015873015873,0.0,1.0
+74799930,74799930.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74799938,74799938.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74799939,74799939.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74799947,74799947.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.8829365079365079,0.0,1.0
+74799949,74799949.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74799954,74799954.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8301587301587302,0.0,1.0
+74799955,74799955.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74799958,74799958.json,Villagers,3.0,8,Reason: All werewolves exiled.,18,5,6,0,0.9097222222222222,0.0,1.0
+74799962,74799962.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,4,6,0,0.8873015873015873,0.0,1.0
+74799963,74799963.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.9067460317460317,0.0,1.0
+74799969,74799969.json,Villagers,3.0,8,Reason: All werewolves exiled.,16,5,6,0,0.8678571428571429,0.0,1.0
+74799970,74799970.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8511904761904762,0.0,1.0
+74799985,74799985.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74799987,74799987.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,4,6,0,0.8873015873015873,0.0,1.0
+74800000,74800000.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74800037,74800037.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74800045,74800045.json,Werewolves,5.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",22,6,9,1,0.8842592592592593,0.1111111111111111,1.0
+74800046,74800046.json,Villagers,3.0,8,Reason: All werewolves exiled.,16,5,6,0,0.8773809523809524,0.0,1.0
+74800047,74800047.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74800048,74800048.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74800052,74800052.json,Villagers,3.0,8,Reason: All werewolves exiled.,16,5,6,0,0.8202380952380951,0.0,1.0
+74800054,74800054.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74800055,74800055.json,Villagers,3.0,8,Reason: All werewolves exiled.,16,5,6,0,0.9011904761904761,0.0,1.0
+74800062,74800062.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74800065,74800065.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74800071,74800071.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,4,6,0,0.8873015873015873,0.0,1.0
+74800078,74800078.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,4,6,0,0.8873015873015873,0.0,1.0
+74800081,74800081.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74800083,74800083.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74800086,74800086.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74800089,74800089.json,Villagers,3.0,8,Reason: All werewolves exiled.,16,5,6,0,0.9011904761904761,0.0,1.0
+74800123,74800123.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.9067460317460317,0.0,1.0
+74800124,74800124.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",11,4,4,0,0.8660714285714286,0.0,1.0
+74800131,74800131.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8785714285714286,0.0,1.0
+74800134,74800134.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",13,6,5,1,0.8523809523809524,0.2,1.0
+74800137,74800137.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74800138,74800138.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8539682539682539,0.0,1.0
+74800158,74800158.json,Villagers,3.0,8,Reason: All werewolves exiled.,19,5,6,0,0.9180555555555556,0.0,1.0
+74800159,74800159.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8642857142857143,0.0,1.0
+74800164,74800164.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8511904761904762,0.0,1.0
+74800165,74800165.json,Villagers,2.0,8,Reason: All werewolves exiled.,14,3,4,0,0.9270833333333334,0.0,1.0
+74800174,74800174.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",14,6,5,0,0.9416666666666667,0.0,1.0
+74800175,74800175.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
+74800178,74800178.json,Villagers,3.0,8,Reason: All werewolves exiled.,17,5,6,0,0.8551587301587302,0.0,1.0
+74800187,74800187.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8785714285714286,0.0,1.0
+74800226,74800226.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8873015873015873,0.0,1.0
+74800237,74800237.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.8785714285714286,0.0,1.0
+74800238,74800238.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74800247,74800247.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8301587301587302,0.0,1.0
+74800258,74800258.json,Villagers,3.0,8,Reason: All werewolves exiled.,16,4,6,0,0.9345238095238094,0.0,1.0
+74800264,74800264.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74800265,74800265.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.9142857142857143,0.0,1.0
+74800294,74800294.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8785714285714286,0.0,1.0
+74800327,74800327.json,Villagers,2.0,8,Reason: All werewolves exiled.,12,3,4,0,0.8428571428571429,0.0,1.0
+74800333,74800333.json,Werewolves,3.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=1, len(villagers)=1).",15,5,6,0,0.8063492063492063,0.0,1.0
+74800340,74800340.json,Villagers,3.0,8,Reason: All werewolves exiled.,15,5,6,0,0.8396825396825397,0.0,1.0
+74800346,74800346.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.8869047619047619,0.0,1.0
+74800348,74800348.json,Werewolves,2.0,8,"Reason: len(werewolves) >= len(villagers). Final counts: len(werewolves)=2, len(villagers)=2).",12,4,4,0,0.9142857142857143,0.0,1.0
+74800350,74800350.json,Villagers,2.0,8,Reason: All werewolves exiled.,13,3,4,0,0.9226190476190477,0.0,1.0
