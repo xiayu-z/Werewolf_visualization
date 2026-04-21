@@ -4,11 +4,19 @@ Run: streamlit run analysis/visualization/app.py
 """
 
 import html as _html
+import random
 import streamlit as st
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 from pathlib import Path
+
+DARK_PLOT = dict(
+    template="plotly_dark",
+    paper_bgcolor="rgba(0,0,0,0)",
+    plot_bgcolor="rgba(30,30,53,0.6)",
+    font=dict(family="Arial", size=13, color="#e8e8e8"),
+)
 
 # ── Page config ────────────────────────────────────────────────────────
 st.set_page_config(
@@ -16,6 +24,81 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded",
 )
+
+# ── Global CSS ─────────────────────────────────────────────────────────
+st.markdown("""
+<style>
+/* ── Sidebar container ── */
+[data-testid="stSidebar"] {
+    border-right: 1px solid rgba(204,51,51,0.20);
+    padding-top: 0 !important;
+}
+[data-testid="stSidebarContent"] {
+    padding: 0 1rem 1rem 1rem;
+}
+
+/* ── Filter section card ── */
+.filter-card {
+    background: rgba(204,51,51,0.07);
+    border: 1px solid rgba(204,51,51,0.18);
+    border-radius: 8px;
+    padding: 10px 12px 4px 12px;
+    margin-bottom: 10px;
+}
+.filter-label {
+    font-size: 0.72em;
+    font-weight: 700;
+    letter-spacing: 0.10em;
+    text-transform: uppercase;
+    color: #cc7777;
+    margin-bottom: 4px;
+}
+
+/* ── Role dot helper ── */
+.role-dot {
+    display:inline-block; width:9px; height:9px;
+    border-radius:50%; margin-right:5px; vertical-align:middle;
+}
+
+/* ── Multiselect tags ── */
+[data-testid="stMultiSelect"] span[data-baseweb="tag"] {
+    background: rgba(204,51,51,0.22) !important;
+    border: 1px solid rgba(204,51,51,0.45) !important;
+    border-radius: 4px !important;
+    color: #ffaaaa !important;
+}
+[data-testid="stMultiSelect"] span[data-baseweb="tag"] svg {
+    fill: #ffaaaa !important;
+}
+
+/* ── Slider track ── */
+[data-testid="stSlider"] [data-baseweb="slider"] [role="slider"] {
+    background: #cc3333 !important;
+    border-color: #cc3333 !important;
+}
+[data-testid="stSlider"] [data-baseweb="slider"] [data-testid="stTickBar"] {
+    color: #cc7777;
+}
+
+/* ── Stats card ── */
+.stats-card {
+    background: rgba(255,255,255,0.04);
+    border: 1px solid rgba(255,255,255,0.09);
+    border-radius: 8px;
+    padding: 10px 14px;
+    margin-top: 12px;
+    font-size: 0.82em;
+    line-height: 2;
+}
+.stats-card b { color: #ffaaaa; }
+
+/* ── Tab bar ── */
+[data-testid="stTabs"] button[role="tab"][aria-selected="true"] {
+    border-bottom: 3px solid #cc3333;
+    color: #ff8888;
+}
+</style>
+""", unsafe_allow_html=True)
 
 BASE = Path(__file__).parent.parent   # → analysis/
 
@@ -89,40 +172,68 @@ METRIC_META = {
 # SIDEBAR — global filters (shared across all tabs)
 # ══════════════════════════════════════════════════════════════════════
 with st.sidebar:
-    st.title("🐺 Werewolf Explorer")
-    st.markdown("---")
-    st.markdown("### Global Filters")
+    # ── Title ──────────────────────────────────────────────────────
+    st.markdown("""
+    <div style="text-align:center; padding: 18px 0 10px 0;">
+      <div style="font-size:2.2em; line-height:1">🐺</div>
+      <div style="font-size:1.15em; font-weight:800; letter-spacing:0.06em;
+                  color:#ff8888; margin-top:6px;">WEREWOLF EXPLORER</div>
+      <div style="font-size:0.72em; color:#888; margin-top:2px; letter-spacing:0.08em;">
+        AI GAME ANALYSIS
+      </div>
+    </div>
+    <hr style="border:none; border-top:1px solid rgba(204,51,51,0.25); margin:0 0 14px 0;">
+    """, unsafe_allow_html=True)
 
+    # ── Winner filter ───────────────────────────────────────────────
+    st.markdown('<div class="filter-card"><div class="filter-label">🏆 Game Outcome</div>', unsafe_allow_html=True)
     winner_f = st.multiselect(
-        "Winner team", ["Villagers", "Werewolves"],
-        default=["Villagers", "Werewolves"])
+        "Winner", ["Villagers", "Werewolves"],
+        default=["Villagers", "Werewolves"],
+        label_visibility="collapsed")
+    st.markdown('</div>', unsafe_allow_html=True)
 
+    # ── Role filter ─────────────────────────────────────────────────
+    ROLE_DOT = {
+        "Villager": "#e8cc7a", "Werewolf": "#e05252",
+        "Seer": "#a9a7c7",     "Doctor":  "#e48375",
+    }
+    role_legend = " ".join(
+        f'<span class="role-dot" style="background:{ROLE_DOT[r]}"></span>{r}'
+        for r in ROLE_DOT
+    )
+    st.markdown(
+        f'<div class="filter-card">'
+        f'<div class="filter-label">🎭 Role</div>'
+        f'<div style="font-size:0.75em; color:#888; margin-bottom:6px;">{role_legend}</div>',
+        unsafe_allow_html=True)
     role_f = st.multiselect(
         "Role", ["Villager", "Werewolf", "Seer", "Doctor"],
-        default=["Villager", "Werewolf", "Seer", "Doctor"])
+        default=["Villager", "Werewolf", "Seer", "Doctor"],
+        label_visibility="collapsed")
+    st.markdown('</div>', unsafe_allow_html=True)
 
-    model_f = st.multiselect(
-        "LLM Model", sorted(players["model_name"].unique()),
-        default=sorted(players["model_name"].unique()))
-
+    # ── Survival filter ─────────────────────────────────────────────
+    st.markdown('<div class="filter-card"><div class="filter-label">❤️ Survival Status</div>', unsafe_allow_html=True)
     alive_f = st.multiselect(
         "Survival", ["Survived", "Eliminated"],
-        default=["Survived", "Eliminated"])
+        default=["Survived", "Eliminated"],
+        label_visibility="collapsed")
     alive_vals = [True if a == "Survived" else False for a in alive_f]
+    st.markdown('</div>', unsafe_allow_html=True)
 
+    # ── Game length slider ──────────────────────────────────────────
+    day_min, day_max = int(games["last_day"].min()), int(games["last_day"].max())
+    st.markdown('<div class="filter-card"><div class="filter-label">📅 Game Length (days)</div>', unsafe_allow_html=True)
     day_range = st.slider(
-        "Game length (days)",
-        int(games["last_day"].min()), int(games["last_day"].max()),
-        (int(games["last_day"].min()), int(games["last_day"].max())))
-
-    st.markdown("---")
-    st.caption("Data: 1,435 games · 11,472 players · 8 LLM models")
+        "Days", day_min, day_max, (day_min, day_max),
+        label_visibility="collapsed")
+    st.markdown('</div>', unsafe_allow_html=True)
 
 # Apply global filters
 df = players[
     players["winner_team"].isin(winner_f) &
     players["role"].isin(role_f) &
-    players["model_name"].isin(model_f) &
     players["alive_end"].isin(alive_vals) &
     players["last_day"].between(*day_range)
 ].copy()
@@ -131,6 +242,29 @@ games_f = games[
     games["winner_team"].isin(winner_f) &
     games["last_day"].between(*day_range)
 ]
+
+# ── Sidebar stats card (needs filter results) ───────────────────────
+with st.sidebar:
+    n_games_f  = len(games_f)
+    n_players_f = len(df)
+    pct = n_games_f / len(games) * 100 if len(games) else 0
+    vill_win = (games_f["winner_team"] == "Villagers").sum()
+    wolf_win = (games_f["winner_team"] == "Werewolves").sum()
+    st.markdown(f"""
+    <div class="stats-card">
+      <div style="font-size:0.8em; font-weight:700; letter-spacing:0.08em;
+                  color:#cc7777; margin-bottom:6px;">📊 CURRENT SELECTION</div>
+      <div>🎮 Games &nbsp;<b>{n_games_f:,}</b>
+           <span style="color:#555; font-size:0.85em">/ {len(games):,} ({pct:.0f}%)</span></div>
+      <div>👥 Players &nbsp;<b>{n_players_f:,}</b></div>
+      <div>🏘️ Villager wins &nbsp;<b>{vill_win:,}</b></div>
+      <div>🐺 Werewolf wins &nbsp;<b>{wolf_win:,}</b></div>
+    </div>
+    <div style="text-align:center; font-size:0.68em; color:#555;
+                margin-top:14px; letter-spacing:0.05em;">
+      1,435 games · 11,472 players · 8 LLM models
+    </div>
+    """, unsafe_allow_html=True)
 
 # ══════════════════════════════════════════════════════════════════════
 # TABS
@@ -142,52 +276,48 @@ tab1, tab2, tab3 = st.tabs(["🎮 Game Browser", "📊 Statistics", "🔬 Compar
 # ──────────────────────────────────────────────────────────────────────
 with tab1:
     st.subheader("🎮 Game Browser")
-    st.caption("Select a game to see its full process: player roster, vote timeline, and elimination order.")
 
-    left, right = st.columns([1, 2])
+    # ── Random game picker ─────────────────────────────────────────
+    valid_ids = games_f["game_id"].tolist()
+    if "gid" not in st.session_state or st.session_state.gid not in valid_ids:
+        st.session_state.gid = valid_ids[0] if valid_ids else None
 
-    with left:
+    col_btn, col_meta = st.columns([1, 3])
+    with col_btn:
         st.markdown(f"**{len(games_f):,} games** match filters")
-        game_table = games_f[["game_id", "winner_team", "last_day", "n_survived"]].copy()
-        game_table.columns = ["Game ID", "Winner", "Days", "Survivors"]
+        if st.button("🎲 Random Game", use_container_width=True):
+            st.session_state.gid = random.choice(valid_ids)
 
-        sel = st.dataframe(
-            game_table.reset_index(drop=True),
-            use_container_width=True,
-            height=380,
-            on_select="rerun",
-            selection_mode="single-row",
-        )
-        sel_rows = sel.get("selection", {}).get("rows", [])
-        gid = int(games_f.iloc[sel_rows[0]]["game_id"]) if sel_rows else int(games_f.iloc[0]["game_id"])
+    gid = st.session_state.gid
 
-    with right:
-        ginfo = games[games["game_id"] == gid].iloc[0]
-        emoji = "🏘️" if ginfo["winner_team"] == "Villagers" else "🐺"
-        st.markdown(f"### Game `{gid}`  {emoji} **{ginfo['winner_team']} won**")
+    with col_meta:
+        if gid is not None:
+            ginfo = games[games["game_id"] == gid].iloc[0]
+            emoji = "🏘️" if ginfo["winner_team"] == "Villagers" else "🐺"
+            st.markdown(f"### Game `{gid}`  {emoji} **{ginfo['winner_team']} won**")
+            c1, c2, c3 = st.columns(3)
+            c1.metric("Duration",  f"Day {int(ginfo['last_day'])}")
+            c2.metric("Players",   int(ginfo["n_players"]))
+            c3.metric("Survivors", int(ginfo["n_survived"]))
 
-        c1, c2, c3 = st.columns(3)
-        c1.metric("Duration", f"Day {int(ginfo['last_day'])}")
-        c2.metric("Players",  int(ginfo["n_players"]))
-        c3.metric("Survivors", int(ginfo["n_survived"]))
-
-        # Player roster
+    # Player roster — only 4 core columns
+    if gid is not None:
         gplayers = players[players["game_id"] == gid].copy()
-        roster = gplayers[["player_id", "role", "model_name", "alive_end",
-                            "n_messages", "avg_text_len", "n_votes_received",
-                            "n_votes_cast"]].copy()
-        roster.columns = ["Player", "Role", "Model", "Alive",
-                          "Msgs", "Avg Len", "Votes↓", "Votes↑"]
+        roster = gplayers[["player_id", "role", "model_name", "alive_end"]].copy()
+        roster.columns = ["Player", "Role", "Model", "Alive"]
         roster["Alive"] = roster["Alive"].map({True: "✅", False: "❌"})
 
         def _row_style(row):
-            c = ROLE_COLORS.get(row["Role"], "#ffffff") + "30"
+            c = ROLE_COLORS.get(row["Role"], "#2a2a2a") + "55"
             return [f"background-color: {c}"] * len(row)
 
         st.dataframe(
             roster.set_index("Player").style.apply(_row_style, axis=1),
             use_container_width=True,
         )
+    else:
+        st.warning("No games match the current filters.")
+        gplayers = players.iloc[:0].copy()
 
     # ── Vote timeline ──────────────────────────────────────────────
     st.markdown("---")
@@ -260,7 +390,7 @@ with tab1:
                 axref="x", ayref="y",
                 arrowhead=3, arrowsize=1.5,
                 arrowwidth=2.5 if row["n"] > 1 else 1.8,
-                arrowcolor="#cc3333" if night else "#4a4a4a",
+                arrowcolor="#ff4444" if night else "#aaaaaa",
                 showarrow=True, text="",
             )
 
@@ -285,7 +415,7 @@ with tab1:
             prefix = "🐺 " if is_wolf else ""
             # two-line label: name on top, role tag below
             label = f"{prefix}{player}<br><sup>{role_short}</sup>"
-            label_color = "#cc0000" if is_wolf else ("#555" if not alive else "#222")
+            label_color = "#ff6666" if is_wolf else ("#888" if not alive else "#e8e8e8")
 
             hover = (f"<b>{player}</b><br>"
                      f"Role: <b>{role}</b><br>"
@@ -333,11 +463,12 @@ with tab1:
                        showticklabels=False),
             yaxis=dict(range=[-1.5, 1.5], showgrid=False, zeroline=False,
                        showticklabels=False),
-            height=420, template="plotly_white",
+            height=420,
             margin=dict(t=45, b=5, l=5, r=5),
             legend=dict(orientation="h", yanchor="bottom", y=-0.15, x=0.5,
                         xanchor="center", font=dict(size=11),
                         itemsizing="constant"),
+            **DARK_PLOT,
         )
         return fig
 
@@ -399,16 +530,16 @@ with tab1:
                         tlen    = int(row["_tlen"])
                         safe_text = _html.escape(text).replace("\n", "<br>")
                         st.markdown(
-                            f'<div style="background:{color}22; border-left:4px solid {color};'
+                            f'<div style="background:{color}28; border-left:4px solid {color};'
                             f' padding:8px 14px; border-radius:4px; margin-bottom:8px;">'
                             f'<div style="margin-bottom:5px; display:flex; align-items:center; gap:8px;">'
-                            f'<b>{speaker}</b>'
+                            f'<b style="color:#f0f0f0">{speaker}</b>'
                             f'<span style="background:{color}; color:#fff; font-size:0.76em;'
                             f' padding:2px 8px; border-radius:10px; font-weight:600;">{role}</span>'
-                            f'<span style="color:#888; font-size:0.8em">{phase}</span>'
-                            f'<span style="margin-left:auto; color:#999; font-size:0.78em">{tlen} chars</span>'
+                            f'<span style="color:#aaa; font-size:0.8em">{phase}</span>'
+                            f'<span style="margin-left:auto; color:#aaa; font-size:0.78em">{tlen} chars</span>'
                             f'</div>'
-                            f'<div style="font-size:0.92em; line-height:1.55; color:#222;">{safe_text}</div>'
+                            f'<div style="font-size:0.92em; line-height:1.55; color:#ddd;">{safe_text}</div>'
                             f'</div>',
                             unsafe_allow_html=True,
                         )
@@ -553,13 +684,8 @@ with tab2:
     else:
         fig = go.Figure()
 
-    fig.update_layout(height=460, template="plotly_white",
-                      font=dict(family="Arial", size=13))
+    fig.update_layout(height=460, **DARK_PLOT)
     st.plotly_chart(fig, use_container_width=True)
-
-    with st.expander("📋 Summary Statistics Table"):
-        num_cols = [c for c in METRIC_META if c in df.columns]
-        st.dataframe(df[num_cols].describe().round(3), use_container_width=True)
 
 
 # ──────────────────────────────────────────────────────────────────────
@@ -596,7 +722,7 @@ with tab3:
                        color_discrete_map=cmap, points="outliers",
                        title=f"{METRIC_META[metric]} by {group_by}",
                        labels={metric: METRIC_META[metric], "_group": group_by})
-        fig_b.update_layout(showlegend=False, template="plotly_white", height=420)
+        fig_b.update_layout(showlegend=False, height=420, **DARK_PLOT)
         st.plotly_chart(fig_b, use_container_width=True)
 
     with col_hist:
@@ -605,15 +731,8 @@ with tab3:
                              barmode="overlay", opacity=0.72, nbins=25,
                              title=f"Distribution of {METRIC_META[metric]}",
                              labels={metric: METRIC_META[metric], "_group": group_by})
-        fig_h.update_layout(template="plotly_white", height=420)
+        fig_h.update_layout(height=420, **DARK_PLOT)
         st.plotly_chart(fig_h, use_container_width=True)
-
-    st.markdown("#### Summary Statistics by Group")
-    summary = (df.groupby("_group")[metric]
-               .agg(count="count", mean="mean", median="median", std="std",
-                    min="min", max="max")
-               .round(3))
-    st.dataframe(summary, use_container_width=True)
 
     # scatter: two numeric metrics, coloured by group
     st.markdown("---")
@@ -634,5 +753,5 @@ with tab3:
                                 y_col: METRIC_META[y_col],
                                 "_group": group_by},
                         trendline="ols")
-    fig_sc.update_layout(template="plotly_white", height=440)
+    fig_sc.update_layout(height=440, **DARK_PLOT)
     st.plotly_chart(fig_sc, use_container_width=True)
