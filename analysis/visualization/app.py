@@ -300,21 +300,57 @@ with tab1:
             c2.metric("Players",   int(ginfo["n_players"]))
             c3.metric("Survivors", int(ginfo["n_survived"]))
 
-    # Player roster — only 4 core columns
+    # Player roster — compact HTML table
     if gid is not None:
         gplayers = players[players["game_id"] == gid].copy()
-        roster = gplayers[["player_id", "role", "model_name", "alive_end"]].copy()
-        roster.columns = ["Player", "Role", "Model", "Alive"]
-        roster["Alive"] = roster["Alive"].map({True: "✅", False: "❌"})
 
-        def _row_style(row):
-            c = ROLE_COLORS.get(row["Role"], "#2a2a2a") + "55"
-            return [f"background-color: {c}"] * len(row)
+        NODE_COLOR = {
+            "Villager": "#e8cc7a", "Werewolf": "#e05252",
+            "Seer": "#a9a7c7",     "Doctor":   "#e48375",
+        }
 
-        st.dataframe(
-            roster.set_index("Player").style.apply(_row_style, axis=1),
-            use_container_width=True,
-        )
+        rows_html = ""
+        for _, pr in gplayers.iterrows():
+            role    = pr["role"]
+            rc      = NODE_COLOR.get(role, "#888")
+            alive   = pr["alive_end"]
+            status  = ('<span style="color:#4caf50;font-weight:700">● Alive</span>'
+                       if alive else
+                       '<span style="color:#888">✕ Out</span>')
+            bg      = rc + "22"
+            rows_html += (
+                f'<tr style="border-bottom:1px solid rgba(255,255,255,0.05);'
+                f' background:{bg};">'
+                f'<td style="padding:9px 14px; font-weight:700; font-size:0.97em;'
+                f' color:#f0f0f0; white-space:nowrap;">{pr["player_id"]}</td>'
+                f'<td style="padding:9px 14px; font-weight:600; color:{rc};">'
+                f'<span style="display:inline-block;width:8px;height:8px;border-radius:50%;'
+                f'background:{rc};margin-right:6px;vertical-align:middle;"></span>{role}</td>'
+                f'<td style="padding:9px 14px; color:#bbb; font-size:0.9em;">{pr["model_name"]}</td>'
+                f'<td style="padding:9px 14px; text-align:center;">{status}</td>'
+                f'</tr>'
+            )
+
+        st.markdown(f"""
+        <table style="width:auto; border-collapse:collapse; font-size:0.93em;
+                      table-layout:auto; margin:0 auto;
+                      border:1px solid rgba(255,255,255,0.08); border-radius:8px;
+                      overflow:hidden;">
+          <thead>
+            <tr style="background:rgba(255,255,255,0.05);">
+              <th style="text-align:left; padding:10px 16px; color:#ccc; font-size:0.88em;
+                         letter-spacing:0.07em; font-weight:800; white-space:nowrap;">PLAYER</th>
+              <th style="text-align:left; padding:10px 16px; color:#ccc; font-size:0.88em;
+                         letter-spacing:0.07em; font-weight:800; white-space:nowrap;">ROLE</th>
+              <th style="text-align:left; padding:10px 16px; color:#ccc; font-size:0.88em;
+                         letter-spacing:0.07em; font-weight:800; white-space:nowrap;">MODEL</th>
+              <th style="text-align:center; padding:10px 16px; color:#ccc; font-size:0.88em;
+                         letter-spacing:0.07em; font-weight:800; white-space:nowrap;">STATUS</th>
+            </tr>
+          </thead>
+          <tbody>{rows_html}</tbody>
+        </table>
+        """, unsafe_allow_html=True)
     else:
         st.warning("No games match the current filters.")
         gplayers = players.iloc[:0].copy()
